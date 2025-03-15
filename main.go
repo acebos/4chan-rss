@@ -4,6 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"os"
 	"strings"
 	"time"
 
@@ -24,7 +25,7 @@ var options struct {
 func init() {
 	flag.UintVar(&options.replies, "n", 10, "cutoff of number of replies on thread")
 	flag.UintVar(&options.pages, "p", 1, "number of pages/request to get/make")
-	flag.StringVar(&options.boardName, "b", "g", "board name")
+	flag.StringVar(&options.boardName, "b", "news", "board name")
 }
 
 func main() {
@@ -32,7 +33,11 @@ func main() {
 		flag.Usage()
 		log.Fatal(err)
 	} else {
-		fmt.Println(rss)
+		err := os.WriteFile("rss.xml", []byte(rss), 0644)
+		if err != nil {
+			log.Fatal("Failed to write RSS to file:", err)
+		}
+		fmt.Println("RSS feed saved to rss.xml")
 	}
 }
 
