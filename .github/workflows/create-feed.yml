@@ -22,7 +22,7 @@ jobs:
         go-version: '1.18'
 
     - name: Run Go script
-      run: go run main.go -b news,g,vg -n 30 -p 1
+      run: go run main.go -b news,g,ck,out,v,vp,sp,co,trv,biz -n 30 -p 1
 
     - name: Commit updated RSS feed
       run: |
