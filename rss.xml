@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>4chan threads from multiple boards</title>
   <id>https://boards.4channel.org/</id>
-  <updated>2025-04-02T03:43:27Z</updated>
+  <updated>2025-04-02T04:08:09Z</updated>
   <subtitle>threads from multiple boards with more than 30 comments</subtitle>
   <link href="https://boards.4channel.org/"></link>
   <author>
@@ -58,6 +58,106 @@
     </author>
   </entry>
   <entry>
+    <title>[305] /aicg/ - AI Chatbot General</title>
+    <updated>2025-03-31T23:10:41Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104916024/</id>
+    <link href="https://boards.4channel.org/g/thread/104916024/" rel="alternate"></link>
+    <summary type="html">/aicg/ - A general dedicated to the discussion and development of AI chatbots&lt;br&gt;&lt;br&gt;4th Land Unit Edition&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;News&lt;/span&gt;&lt;br&gt;Gemini 2.5 Pro Experimental released &lt;a href=&#39;https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/&#39;&gt;https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/&lt;/a&gt;&lt;br&gt;Deepseek V3 updated, new weights released &lt;a href=&#39;https://huggingface.co/deepseek-ai/DeepSeek-V3-0324&#39;&gt;https://huggingface.co/deepseek-ai/DeepSeek-V3-0324&lt;/a&gt;&lt;br&gt;OpenAI o1-pro made available exclusively on new Responses API &lt;a href=&#39;https://x.com/OpenAIDevs/status/1902485690958450871&#39;&gt;https://x.com/OpenAIDevs/status/1902485690958450871&lt;/a&gt;&lt;br&gt;Gemini 2.0 Flash native image generation released &lt;a href=&#39;https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/&#39;&gt;https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/&lt;/a&gt;&lt;br&gt;OpenAI releases GPT 4.5 &lt;a href=&#39;https://openai.com/index/introducing-gpt-4-5/&#39;&gt;https://openai.com/index/introducing-gpt-4-5/&lt;/a&gt;&lt;br&gt;&lt;br&gt;additional info: &lt;a href=&#39;https://rentry.org/aicg_extra_information&#39;&gt;https://rentry.org/aicg_extra_information&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Frontends&lt;/span&gt;&lt;br&gt;SillyTavern: &lt;a href=&#39;https://docs.sillytavern.app&#39;&gt;https://docs.sillytavern.app&lt;/a&gt;&lt;br&gt;RisuAI: &lt;a href=&#39;https://risuai.net&#39;&gt;https://risuai.net&lt;/a&gt;&lt;br&gt;Agnai: &lt;a href=&#39;https://agnai.chat&#39;&gt;https://agnai.chat&lt;/a&gt; | &lt;a href=&#39;https://rentry.org/agnai_guides&#39;&gt;https://rentry.org/agnai_guides&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Bots&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://characterhub.org&#39;&gt;https://characterhub.org&lt;/a&gt; | &lt;a href=&#39;https://chub.ai&#39;&gt;https://chub.ai&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://realm.risuai.net&#39;&gt;https://realm.risuai.net&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://char-archive.evulid.cc&#39;&gt;https://char-archive.evulid.cc&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://partyintheanchorhold.neocities.org&#39;&gt;https://partyintheanchorhold.neocities.org&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/meta_bot_list&#39;&gt;https://rentry.org/meta_bot_list&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Models&lt;/span&gt;&lt;br&gt;jailbreaks: &lt;a href=&#39;https://rentry.org/jb-listing&#39;&gt;https://rentry.org/jb-listing&lt;/a&gt; | &lt;a href=&#39;https://rentry.org/weirdbutfunjailbreaksandprompts_adj&#39;&gt;https://rentry.org/weirdbutfunjailbreaksandprompts_adj&lt;/a&gt;&lt;br&gt;gpt: &lt;a href=&#39;https://platform.openai.com/docs&#39;&gt;https://platform.openai.com/docs&lt;/a&gt;&lt;br&gt;claude: &lt;a href=&#39;https://docs.anthropic.com&#39;&gt;https://docs.anthropic.com&lt;/a&gt; | &lt;a href=&#39;https://rentry.org/how2claude&#39;&gt;https://rentry.org/how2claude&lt;/a&gt;&lt;br&gt;gemini: &lt;a href=&#39;https://ai.google.dev/docs&#39;&gt;https://ai.google.dev/docs&lt;/a&gt; | &lt;a href=&#39;https://rentry.org/gemini-qr&#39;&gt;https://rentry.org/gemini-qr&lt;/a&gt;&lt;br&gt;deepseek: &lt;a href=&#39;https://api-docs.deepseek.com&#39;&gt;https://api-docs.deepseek.com&lt;/a&gt;&lt;br&gt;local: &lt;a href=&#34;//boards.4chan.org/g/catalog#s=lmg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/g/lmg&lt;/a&gt; | &lt;a href=&#39;https://rentry.org/meta_golocal_list&#39;&gt;https://rentry.org/meta_golocal_list&lt;/a&gt; | &lt;a href=&#39;https://openrouter.ai&#39;&gt;https://openrouter.ai&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Botmaking&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/meta_botmaking_list&#39;&gt;https://rentry.org/meta_botmaking_list&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://desune.moe/aichared&#39;&gt;https://desune.moe/aichared&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://agnai.chat/editor&#39;&gt;https://agnai.chat/editor&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Meta&lt;/span&gt;&lt;br&gt;OP templates: &lt;a href=&#39;https://rentry.org/aicgOP&#39;&gt;https://rentry.org/aicgOP&lt;/a&gt;&lt;br&gt;aicg botmaking events: &lt;a href=&#39;https://rentry.org/meta_event_list&#39;&gt;https://rentry.org/meta_event_list&lt;/a&gt;&lt;br&gt;lore: &lt;a href=&#39;https://rentry.org/aicg_chronicles&#39;&gt;https://rentry.org/aicg_chronicles&lt;/a&gt;&lt;br&gt;services assessment: &lt;a href=&#39;https://rentry.org/aicg_meta&#39;&gt;https://rentry.org/aicg_meta&lt;/a&gt;&lt;br&gt;logs: &lt;a href=&#39;https://sprites.neocities.org/l/r&#39;&gt;https://sprites.neocities.org/l/r&lt;/a&gt; | &lt;a href=&#39;https://chatlogs.neocities.org&#39;&gt;https://chatlogs.neocities.org&lt;/a&gt;&lt;br&gt;latest proxies: &lt;a href=&#39;https://rentry.org/desuproxyreborn&#39;&gt;https://rentry.org/desuproxyreborn&lt;/a&gt;&lt;br&gt;&lt;br&gt;Would Rather stay loyal: &lt;a href=&#34;/g/thread/104908358#p104908358&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104908358&lt;/a&gt;&lt;img alt=&#39;X1_flame_mammoth[sound=files.catbox.moe%2Fkgsagw.mp3].png&#39; src=&#39;http://i.4cdn.org/g/1743462641164392.png&#39;/&gt;&lt;img alt=&#39;1743462641164392.jpg&#39; src=&#39;http://i.4cdn.org/g/1743462641164392s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[258] They phoned it in this year</title>
+    <updated>2025-04-01T05:36:02Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/g/thread/104918784/</id>
+    <link href="https://boards.4channel.org/g/thread/104918784/" rel="alternate"></link>
+    <summary type="html">They phoned it in this year&lt;img alt=&#39;do4e.jpg&#39; src=&#39;http://i.4cdn.org/g/1743485762703327.jpg&#39;/&gt;&lt;img alt=&#39;1743485762703327.jpg&#39; src=&#39;http://i.4cdn.org/g/1743485762703327s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ 38] /mkg/ - Mechanical Keyboard General</title>
+    <updated>2025-03-31T22:45:02Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104915789/</id>
+    <link href="https://boards.4channel.org/g/thread/104915789/" rel="alternate"></link>
+    <summary type="html">Le mokey board edition&lt;br&gt;&lt;br&gt;Previous: &lt;a href=&#34;/g/thread/104849872#p104849872&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104849872&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Keyboard recommendation template:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/n220xk9V&#39;&gt;https://pastebin.com/n220xk9V&lt;/a&gt;&lt;br&gt;(Helps also to mention if you&amp;#039;re open to soldering or not)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Find vendors&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.alexotos.com/keyboard-vendor-list&#39;&gt;https://www.alexotos.com/keyboard-vendor-list&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://keycaplendar.firebaseapp.com&#39;&gt;https://keycaplendar.firebaseapp.com&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;This keyboard stuff is so expensive!&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://aliexpress.com&#39;&gt;https://aliexpress.com&lt;/a&gt; (or Taobao if you are China-savvy)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Layouts and switches&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://compare.splitkb.com&#39;&gt;https://compare.splitkb.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://keyboard-design.com&#39;&gt;https://keyboard-design.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.theremingoat.com&#39;&gt;https://www.theremingoat.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.switchesdb.com&#39;&gt;https://www.switchesdb.com&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Practice typing&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://monkeytype.com&#39;&gt;https://monkeytype.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.keybr.com&#39;&gt;https://www.keybr.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://thetypingcat.com&#39;&gt;https://thetypingcat.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://play.typeracer.com&#39;&gt;https://play.typeracer.com&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What does ______ do to a keyboard&amp;#039;s sound&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://blacksimon.tv/science&#39;&gt;https://blacksimon.tv/science&lt;/a&gt; (Google sheet by a twitch streamer)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;I don&amp;#039;t understand switches, which ones should I buy?&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/mkg_switches&#39;&gt;https://rentry.org/mkg_switches&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What&amp;#039;s the deal with backlighting?&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/mkg_backlight&#39;&gt;https://rentry.org/mkg_backlight&lt;/a&gt;&lt;img alt=&#39;1727937724425421.jpg&#39; src=&#39;http://i.4cdn.org/g/1743461102830252.jpg&#39;/&gt;&lt;img alt=&#39;1743461102830252.jpg&#39; src=&#39;http://i.4cdn.org/g/1743461102830252s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ 58] &gt;replaces (((artists)))&#xD; &gt;pink slips ((((writers)))&#xD; &gt;obsoletes (((programmers)</title>
+    <updated>2025-03-31T08:46:07Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104909057/</id>
+    <link href="https://boards.4channel.org/g/thread/104909057/" rel="alternate"></link>
+    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;replaces (((artists)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;pink slips ((((writers)))&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;obsoletes (((programmers)))&lt;/span&gt;&lt;br&gt;is there anything more based than AI?&lt;img alt=&#39;laughing-cow.png&#39; src=&#39;http://i.4cdn.org/g/1743410767551086.png&#39;/&gt;&lt;img alt=&#39;1743410767551086.jpg&#39; src=&#39;http://i.4cdn.org/g/1743410767551086s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[132] /ldg/ - Local Diffusion General</title>
+    <updated>2025-04-01T04:05:11Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/g/thread/104918304/</id>
+    <link href="https://boards.4channel.org/g/thread/104918304/" rel="alternate"></link>
+    <summary type="html">Is Everyone Going to Talk About OSS When it Gets Implemented Edition &lt;br&gt; &lt;br&gt;Discussion of Free and Open-Source Diffusion Models&lt;br&gt;&lt;br&gt;Breviously: &lt;a href=&#34;/g/thread/104914614#p104914614&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104914614&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/ldg-lazy-getting-started-guide&#39;&gt;https://rentry.org/ldg-lazy-getting-started-guide&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;UI&lt;/span&gt;&lt;br&gt;SwarmUI: &lt;a href=&#39;https://github.com/mcmonkeyprojects/SwarmUI&#39;&gt;https://github.com/mcmonkeyprojects/SwarmUI&lt;/a&gt;&lt;br&gt;Forge: &lt;a href=&#39;https://github.com/lllyasviel/stable-diffusion-webui-forge&#39;&gt;https://github.com/lllyasviel/stable-diffusion-webui-forge&lt;/a&gt;&lt;br&gt;reForge: &lt;a href=&#39;https://github.com/Panchovix/stable-diffusion-webui-reForge&#39;&gt;https://github.com/Panchovix/stable-diffusion-webui-reForge&lt;/a&gt;&lt;br&gt;ComfyUI: &lt;a href=&#39;https://github.com/comfyanonymous/ComfyUI&#39;&gt;https://github.com/comfyanonymous/ComfyUI&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Models, LoRAs, &amp;amp; Upscalers&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://civitai.com&#39;&gt;https://civitai.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://tensor.art&#39;&gt;https://tensor.art&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://openmodeldb.info&#39;&gt;https://openmodeldb.info&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Training&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/spacepxl/demystifying-sd-finetuning&#39;&gt;https://github.com/spacepxl/demystifying-sd-finetuning&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/Nerogar/OneTrainer&#39;&gt;https://github.com/Nerogar/OneTrainer&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/kohya-ss/sd-scripts/tree/sd3&#39;&gt;https://github.com/kohya-ss/sd-scripts/tree/sd3&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/derrian-distro/LoRA_Easy_Training_Scripts&#39;&gt;https://github.com/derrian-distro/LoRA_Easy_Training_Scripts&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/tdrussell/diffusion-pipe&#39;&gt;https://github.com/tdrussell/diffusion-pipe&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;WanX (video)&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/wan21kjguide&#39;&gt;https://rentry.org/wan21kjguide&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/Wan-Video/Wan2.1&#39;&gt;https://github.com/Wan-Video/Wan2.1&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Misc&lt;/span&gt;&lt;br&gt;Share Metadata: &lt;a href=&#39;https://catbox.moe&#39;&gt;https://catbox.moe&lt;/a&gt; | &lt;a href=&#39;https://litterbox.catbox.moe/&#39;&gt;https://litterbox.catbox.moe/&lt;/a&gt;&lt;br&gt;Img2Prompt: &lt;a href=&#39;https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two&#39;&gt;https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two&lt;/a&gt;&lt;br&gt;Archive: &lt;a href=&#39;https://rentry.org/sdg-link&#39;&gt;https://rentry.org/sdg-link&lt;/a&gt;&lt;br&gt;Samplers: &lt;a href=&#39;https://stable-diffusion-art.com/samplers/&#39;&gt;https://stable-diffusion-art.com/samplers/&lt;/a&gt;&lt;br&gt;Digital Art Software: &lt;a href=&#39;https://krita.org/en/&#39;&gt;https://krita.org/en/&lt;/a&gt;&lt;br&gt;Txt2Img Plugin: &lt;a href=&#39;https://kritaaidiffusion.com/&#39;&gt;https://kritaaidiffusion.com/&lt;/a&gt;&lt;br&gt;Bakery: &lt;a href=&#39;https://rentry.org/yueessiz&#39;&gt;https://rentry.org/yueessiz&lt;/a&gt; | &lt;a href=&#39;https://www.befunky.com/create/collage/&#39;&gt;https://www.befunky.com/create/collage/&lt;/a&gt; | &lt;a href=&#39;https://kdenlive.org/en/&#39;&gt;https://kdenlive.org/en/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Neighbours&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/aco/catalog#s=csdg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/aco/csdg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/b/catalog#s=degen&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/b/degen&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/b/catalog#s=celeb+ai&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/b/celeb+ai&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/gif/catalog#s=vdg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/gif/vdg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/d/catalog#s=ddg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/d/ddg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/e/catalog#s=edg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/e/edg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/h/catalog#s=hdg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/h/hdg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/trash/catalog#s=slop&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/trash/slop&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/vt/catalog#s=vtai&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/vt/vtai&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/u/catalog#s=udg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/u/udg&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Local Text&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/g/catalog#s=lmg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/g/lmg&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Maintain Thread Quality&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/debo&#39;&gt;https://rentry.org/debo&lt;/a&gt;&lt;img alt=&#39;highlights_g_104914614_1743480273_1.jpg&#39; src=&#39;http://i.4cdn.org/g/1743480311537882.jpg&#39;/&gt;&lt;img alt=&#39;1743480311537882.jpg&#39; src=&#39;http://i.4cdn.org/g/1743480311537882s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ 86] /ptg/ Private Trackers General</title>
+    <updated>2025-04-01T02:43:18Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/g/thread/104917716/</id>
+    <link href="https://boards.4channel.org/g/thread/104917716/" rel="alternate"></link>
+    <summary type="html">retro obscure OS screenshot edition&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Not sure what private trackers are all about?&lt;/span&gt;&lt;br&gt;A private tracker is a torrent website that provides the same functionality as a public tracker but is invite-only. Each member share common goals: collecting, preserving and discussing media.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Have a question?&lt;/span&gt;&lt;br&gt;- FAQ &lt;a href=&#39;https://archive.is/UVQkn&#39;&gt;https://archive.is/UVQkn&lt;/a&gt;&lt;br&gt;- WIKI &lt;a href=&#39;https://igwiki.lyci.de/wiki/Private_trackers&#39;&gt;https://igwiki.lyci.de/wiki/Private_trackers&lt;/a&gt;&lt;br&gt;- NEWFAG PYRAMID &lt;a href=&#39;https://inviteroute.github.io/graph&#39;&gt;https://inviteroute.github.io/graph&lt;/a&gt; or &lt;a href=&#39;https://inviteroute.github.io/sheet/&#39;&gt;https://inviteroute.github.io/sheet/&lt;/a&gt;&lt;br&gt;- STUDY &lt;a href=&#39;https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2F379FE0CB50DF502F0075119FD3E060&#39;&gt;https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2F379FE0CB50DF502F0075119FD3E060&lt;/a&gt;&lt;br&gt;- SPREADSHEET &lt;a href=&#39;https://hdvinnie.github.io/Private-Trackers-Spreadsheet/&#39;&gt;https://hdvinnie.github.io/Private-Trackers-Spreadsheet/&lt;/a&gt;&lt;br&gt;- TEN CURRY COMMANDMENTS &lt;a href=&#39;https://pastebin.com/raw/dBbdE73M&#39;&gt;https://pastebin.com/raw/dBbdE73M&lt;/a&gt;&lt;br&gt;- TEN NEON COMMANDMENTS &lt;a href=&#39;https://pastebin.com/raw/Ud2pGYaE&#39;&gt;https://pastebin.com/raw/Ud2pGYaE&lt;/a&gt;&lt;br&gt;&lt;br&gt;Use &lt;a href=&#34;//boards.4chan.org/g/catalog#s=ptg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/g/ptg&lt;/a&gt; as a link to find the /ptg/ thread.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Remember the following:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;READ THE OP BEFORE MAKING A FUCKING QUESTION YOU RETARDED FAGGOT&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;It doesn&amp;#039;t matter if you use the same username in different trackers, the staff still share your IP with each other.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Staff is reading, being /marked/ is NOT a meme, and even if it is, it isn&amp;#039;t.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Don&amp;#039;t ask for invites, it&amp;#039;s private for a reason.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;If starting out you should interview for RED, rank to Torrent Master, wait on account age, and get invites from there. THAT&amp;#039;S IT THAT IS ALL YOU HAVE TO DO&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Previous thread &lt;a href=&#34;/g/thread/104897808#p104897808&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104897808&lt;/a&gt;&lt;img alt=&#39;1234.png&#39; src=&#39;http://i.4cdn.org/g/1743475398052894.png&#39;/&gt;&lt;img alt=&#39;1743475398052894.jpg&#39; src=&#39;http://i.4cdn.org/g/1743475398052894s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[127] mpv ffmpeg yt-dlp</title>
+    <updated>2025-03-30T21:59:49Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/g/thread/104904711/</id>
+    <link href="https://boards.4channel.org/g/thread/104904711/" rel="alternate"></link>
+    <summary type="html">&lt;img alt=&#39;mpv.jpg&#39; src=&#39;http://i.4cdn.org/g/1743371989271189.jpg&#39;/&gt;&lt;img alt=&#39;1743371989271189.jpg&#39; src=&#39;http://i.4cdn.org/g/1743371989271189s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[202] /sdg/ - Stable Diffusion General</title>
+    <updated>2025-03-31T21:32:02Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104914999/</id>
+    <link href="https://boards.4channel.org/g/thread/104914999/" rel="alternate"></link>
+    <summary type="html">Previous /sdg/ thread : &lt;a href=&#34;/g/thread/104905967#p104905967&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104905967&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Beginner UI&lt;/span&gt;&lt;br&gt;EasyDiffusion: &lt;a href=&#39;https://easydiffusion.github.io&#39;&gt;https://easydiffusion.github.io&lt;/a&gt;&lt;br&gt;Metastable: &lt;a href=&#39;https://metastable.studio&#39;&gt;https://metastable.studio&lt;/a&gt;&lt;br&gt;SwarmUI: &lt;a href=&#39;https://github.com/mcmonkeyprojects/SwarmUI&#39;&gt;https://github.com/mcmonkeyprojects/SwarmUI&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Advanced UI&lt;/span&gt;&lt;br&gt;ComfyUI: &lt;a href=&#39;https://github.com/comfyanonymous/ComfyUI&#39;&gt;https://github.com/comfyanonymous/ComfyUI&lt;/a&gt;&lt;br&gt;reForge: &lt;a href=&#39;https://github.com/Panchovix/stable-diffusion-webui-reForge&#39;&gt;https://github.com/Panchovix/stable-diffusion-webui-reForge&lt;/a&gt;&lt;br&gt;Forge: &lt;a href=&#39;https://github.com/lllyasviel/stable-diffusion-webui-forge&#39;&gt;https://github.com/lllyasviel/stable-diffusion-webui-forge&lt;/a&gt;&lt;br&gt;Stability Matrix: &lt;a href=&#39;https://github.com/LykosAI/StabilityMatrix&#39;&gt;https://github.com/LykosAI/StabilityMatrix&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Text &amp;amp; image to video&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://comfyanonymous.github.io/ComfyUI_examples/hunyuan_video&#39;&gt;https://comfyanonymous.github.io/ComfyUI_examples/hunyuan_video&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co/city96/HunyuanVideo-gguf&#39;&gt;https://huggingface.co/city96/HunyuanVideo-gguf&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co/city96/HunyuanVideo-I2V-gguf&#39;&gt;https://huggingface.co/city96/HunyuanVideo-I2V-gguf&lt;/a&gt;&lt;br&gt;--&lt;br&gt;&lt;a href=&#39;https://comfyanonymous.github.io/ComfyUI_examples/wan&#39;&gt;https://comfyanonymous.github.io/ComfyUI_examples/wan&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co/city96/Wan2.1-T2V-14B-gguf&#39;&gt;https://huggingface.co/city96/Wan2.1-T2V-14B-gguf&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co/city96/Wan2.1-I2V-14B-480P-gguf&#39;&gt;https://huggingface.co/city96/Wan2.1-I2V-14B-480P-gguf&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co/city96/Wan2.1-I2V-14B-720P-gguf&#39;&gt;https://huggingface.co/city96/Wan2.1-I2V-14B-720P-gguf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;SD 3.5 info &amp;amp; download&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/sdg-link#sd35&#39;&gt;https://rentry.org/sdg-link#sd35&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://civitai.com/models/878387/stable-diffusion-35-large&#39;&gt;https://civitai.com/models/878387/stable-diffusion-35-large&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co/city96/stable-diffusion-3.5-large-gguf&#39;&gt;https://huggingface.co/city96/stable-diffusion-3.5-large-gguf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Try online without registration&lt;/span&gt;&lt;br&gt;Wan 2.1: &lt;a href=&#39;https://huggingface.co/spaces/Wan-AI/Wan2.1&#39;&gt;https://huggingface.co/spaces/Wan-AI/Wan2.1&lt;/a&gt;&lt;br&gt;sd3.5-large: &lt;a href=&#39;https://huggingface.co/spaces/stabilityai/stable-diffusion-3.5-large&#39;&gt;https://huggingface.co/spaces/stabilityai/stable-diffusion-3.5-large&lt;/a&gt;&lt;br&gt;flux-dev: &lt;a href=&#39;https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev&#39;&gt;https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev&lt;/a&gt;&lt;br&gt;txt2img: &lt;a href=&#39;https://www.mage.space&#39;&gt;https://www.mage.space&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Models, LoRAs &amp;amp; upscaling&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://civitai.com&#39;&gt;https://civitai.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://huggingface.co&#39;&gt;https://huggingface.co&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://openmodeldb.info&#39;&gt;https://openmodeldb.info&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Index of guides and other tools&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/sdg-link&#39;&gt;https://rentry.org/sdg-link&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Share image prompt info&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/hdgcb&#39;&gt;https://rentry.org/hdgcb&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://catbox.moe&#39;&gt;https://catbox.moe&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Related boards&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/h/catalog#s=hdg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/h/hdg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/e/catalog#s=edg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/e/edg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/d/catalog#s=ddg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/d/ddg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/b/catalog#s=degen&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/b/degen&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/vt/catalog#s=vtai&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/vt/vtai&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/aco/catalog#s=sdg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/aco/sdg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/u/catalog#s=udg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/u/udg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/tg/catalog#s=slop&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/tg/slop&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/trash/catalog#s=sdg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/trash/sdg&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/vp/catalog#s=napt&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/vp/napt&lt;/a&gt;&lt;img alt=&#39;1728160626332399.png&#39; src=&#39;http://i.4cdn.org/g/1743456722566036.png&#39;/&gt;&lt;img alt=&#39;1743456722566036.jpg&#39; src=&#39;http://i.4cdn.org/g/1743456722566036s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[244] /dmp/ - Digital Music Production</title>
+    <updated>2025-03-29T18:00:44Z</updated>
+    <id>tag:boards.4channel.org,2025-03-29:/g/thread/104890422/</id>
+    <link href="https://boards.4channel.org/g/thread/104890422/" rel="alternate"></link>
+    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;Wikis&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://dmpdoc.neocities.org/&#39;&gt;https://dmpdoc.neocities.org/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://mu-sic-production.fandom.com/wiki//mu/sic_Production_Wiki&#39;&gt;https://mu-sic-production.fandom.com/wiki//mu/sic_Production_Wiki&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/g/ makes a 15th album&lt;/span&gt;&lt;br&gt;Theme: Trackers only&lt;br&gt;Deadline: 10th of May, 11:00 UTC&lt;br&gt;Listening party: 11th of May, 20:00 UTC&lt;br&gt;Submissions for this theme must include a tracker file in addition to audio.&lt;br&gt;The following tracker formats are allowed: .xm, .mod, .it, as well as formats that chiptune trackers export to, such as lsdj&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Check out these trackers to get started&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://milkytracker.org/&#39;&gt;https://milkytracker.org/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://openmpt.org/&#39;&gt;https://openmpt.org/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://github.com/tildearrow/furnace&#39;&gt;https://github.com/tildearrow/furnace&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/g/ makes a 16th album&lt;/span&gt;&lt;br&gt;Theme: Italo Disco&lt;br&gt;Deadline: 17th of May, 11:00 UTC&lt;br&gt;Listening party: 18th of May, 20:00 UTC&lt;br&gt;&lt;br&gt;Submissions for either album are welcome.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;IMPORTANT! READ THIS BEFORE SUBMITTING:&lt;/span&gt;&lt;br&gt;Upload the file somewhere, preferably in a lossless format, and post the link here. If you want to update your track, make a new post.&lt;br&gt;Include the song title in the post, and make it clear that your song is a submission for the album.&lt;br&gt;Optionally you may include cover art for your track, but please state that the image attached is the cover art or it won&amp;#039;t be included. Artist names won&amp;#039;t be included.&lt;br&gt;Songs that contain anything against YouTube&amp;#039;s policies won&amp;#039;t be uploaded on YT, but will still be added to the album.&lt;br&gt;All tracks will be normalised to -14 LUFS in the release. If your song has a lot of dynamic range and you want to keep it, just say so in the submission.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Where can I hear the previous albums?&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rentry.org/dmpalbums&#39;&gt;https://rentry.org/dmpalbums&lt;/a&gt;&lt;br&gt;&lt;br&gt;Previous: &lt;a href=&#34;/g/thread/104844222#p104844222&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104844222&lt;/a&gt;&lt;img alt=&#39;1743271054071390.png&#39; src=&#39;http://i.4cdn.org/g/1743271244054080.png&#39;/&gt;&lt;img alt=&#39;1743271244054080.jpg&#39; src=&#39;http://i.4cdn.org/g/1743271244054080s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[116] /hsg/ - Home Server General</title>
+    <updated>2025-03-30T16:57:23Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/g/thread/104901592/</id>
+    <link href="https://boards.4channel.org/g/thread/104901592/" rel="alternate"></link>
+    <summary type="html">Outdoors edition&lt;br&gt;&lt;br&gt;previous: &lt;a href=&#34;/g/thread/104846593#p104846593&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104846593&lt;/a&gt;&lt;br&gt;&lt;br&gt;READ THE WIKI! &amp;amp; help by contributing:&lt;br&gt;&lt;a href=&#39;https://wiki.installgentoo.com/wiki/Home_server&#39;&gt;https://wiki.installgentoo.com/wiki/Home_server&lt;/a&gt;&lt;br&gt;&lt;br&gt;/hsg/ is about learning and expanding your horizons. Know all about NAS? Learn virtualization. Spun up some VMs? Learn about networking by standing up a OPNsense/PFsense box and configuring some VLANs. There&amp;#039;s always more to learn and chances to grow. Think you’re god-tier already? Setup OpenStack and report back.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What software should I run?&lt;/span&gt;&lt;br&gt;Install Gentoo. Or whatever flavor of *nix is best for the job or most comfy for you. Jellyfin/Emby/Plex to replace Netflix, Nextcloud to replace Googlel, Ampache/Navidrome to replace Spotify, the list goes on. Look at the awesome self-hosted list and ask.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Why should I have a home server?&lt;/span&gt;&lt;br&gt;De-botnet your life. Learn something new. Serving applications to yourself, your family, and your frens feels good. Put your tech skills to good use for yourself and those close to you. Store their data with proper availability redundancy and backups and serve it back to them with a /comfy/ easy to use interface.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Links &amp;amp; resources&lt;/span&gt;&lt;br&gt;Cool stuff to host: &lt;a href=&#39;https://gitlab.com/awesome-selfhosted/awesome-selfhosted&#39;&gt;https://gitlab.com/awesome-selfhosted/awesome-selfhosted&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://reddit.com/r/datahoarder&#39;&gt;https://reddit.com/r/datahoarder&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.labgopher.com&#39;&gt;https://www.labgopher.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.reddit.com/r/homelab/wiki/index&#39;&gt;https://www.reddit.com/r/homelab/wiki/index&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://wiki.debian.org/FreedomBox/Features&#39;&gt;https://wiki.debian.org/FreedomBox/Features&lt;/a&gt;&lt;br&gt;ARM-based SBCs: &lt;a href=&#39;https://docs.google.com/spreadsheets/d/1PGaVu0sPBEy5GgLM8N-CvHB2FESdlfBOdQKqLziJLhQ&#39;&gt;https://docs.google.com/spreadsheets/d/1PGaVu0sPBEy5GgLM8N-CvHB2FESdlfBOdQKqLziJLhQ&lt;/a&gt;&lt;br&gt;Low-power x86 systems: &lt;a href=&#39;https://docs.google.com/spreadsheets/d/1LHvT2fRp7I6Hf18LcSzsNnjp10VI-odvwZpQZKv_NCI&#39;&gt;https://docs.google.com/spreadsheets/d/1LHvT2fRp7I6Hf18LcSzsNnjp10VI-odvwZpQZKv_NCI&lt;/a&gt;&lt;br&gt;SFF cases &lt;a href=&#39;https://docs.google.com/spreadsheets/d/1AddRvGWJ_f4B6UC7_IftDiVudVc8CJ8sxLUqlxVsCz4/&#39;&gt;https://docs.google.com/spreadsheets/d/1AddRvGWJ_f4B6UC7_IftDiVudVc8CJ8sxLUqlxVsCz4/&lt;/a&gt;&lt;br&gt;Cheap disks: &lt;a href=&#39;https://shucks.top/&#39;&gt;https://shucks.top/&lt;/a&gt; &lt;a href=&#39;https://diskprices.com/&#39;&gt;https://diskprices.com/&lt;/a&gt;&lt;br&gt;PCIE info: &lt;a href=&#39;https://files.catbox.moe/id6o0n.pdf&#39;&gt;https://files.catbox.moe/id6o0n.pdf&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;i226-V NICs are bad for servers&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;For more SATA ports, use PCIe SAS HBAs in IT mode&lt;/span&gt;&lt;br&gt;WiFi fixing: pastebin.com/raw/vXJ2PZxn&lt;br&gt;Cockpit is nice for remote administration&lt;br&gt;&lt;br&gt;Remember:&lt;br&gt;RAID protects you from DOWNTIME&lt;br&gt;BACKUPS protect you from DATA LOSS&lt;img alt=&#39;outdoors.jpg&#39; src=&#39;http://i.4cdn.org/g/1743353843127068.jpg&#39;/&gt;&lt;img alt=&#39;1743353843127068.jpg&#39; src=&#39;http://i.4cdn.org/g/1743353843127068s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
     <title>[180] /iemg/ &amp;amp; /pmpg/ - In-Ear Monitor &amp;amp; Portable Music Player General</title>
     <updated>2025-03-31T05:14:26Z</updated>
     <id>tag:boards.4channel.org,2025-03-31:/g/thread/104908023/</id>
@@ -68,63 +168,13 @@
     </author>
   </entry>
   <entry>
-    <title>[105] Has professional coding become the worst job in the world ? think about it&#xD; &#xD; y</title>
-    <updated>2025-03-31T18:12:07Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104912966/</id>
-    <link href="https://boards.4channel.org/g/thread/104912966/" rel="alternate"></link>
-    <summary type="html">Has professional coding become the worst job in the world ? think about it&lt;br&gt;&lt;br&gt;your managers and bosses abuse you because they know you won&amp;#039;t say shit to them&lt;br&gt;your coworkers are brown nosers, aspies and smartasses and the other half are third worlders&lt;br&gt;you are constantly worried about being fired so you accept some level of abuse&lt;br&gt;you HAVE to work with indians and other third worlders&lt;br&gt;AI is getting close to making you redundant&lt;br&gt;Companies are squeezing the life out of everyone because they know there aren&amp;#039;t too many jobs out there&lt;br&gt;&lt;br&gt;Do you regret becoming a professional coder ?&lt;img alt=&#39;layoffs.jpg&#39; src=&#39;http://i.4cdn.org/g/1743444727726013.jpg&#39;/&gt;&lt;img alt=&#39;1743444727726013.jpg&#39; src=&#39;http://i.4cdn.org/g/1743444727726013s.jpg&#39;/&gt;</summary>
+    <title>[ 53] How?</title>
+    <updated>2025-04-01T00:35:29Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/ck/thread/21274401/</id>
+    <link href="https://boards.4channel.org/ck/thread/21274401/" rel="alternate"></link>
+    <summary type="html">How?&lt;img alt=&#39;istockphoto-607497312-612x612.jpg&#39; src=&#39;http://i.4cdn.org/ck/1743467729001015.jpg&#39;/&gt;&lt;img alt=&#39;1743467729001015.jpg&#39; src=&#39;http://i.4cdn.org/ck/1743467729001015s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[226] /twg/ - Tech Workers General</title>
-    <updated>2025-03-31T02:34:44Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104906996/</id>
-    <link href="https://boards.4channel.org/g/thread/104906996/" rel="alternate"></link>
-    <summary type="html">Tech News &amp;amp; Industry Insights&lt;br&gt;The Register - &lt;a href=&#39;https://www.theregister.com/&#39;&gt;https://www.theregister.com/&lt;/a&gt;&lt;br&gt;TechCrunch - &lt;a href=&#39;https://techcrunch.com/&#39;&gt;https://techcrunch.com/&lt;/a&gt;&lt;br&gt;Hacker News - &lt;a href=&#39;https://news.ycombinator.com/&#39;&gt;https://news.ycombinator.com/&lt;/a&gt;&lt;br&gt;Fudzilla - &lt;a href=&#39;https://fudzilla.com/news&#39;&gt;https://fudzilla.com/news&lt;/a&gt;&lt;br&gt;ZDNet - &lt;a href=&#39;https://www.zdnet.com&#39;&gt;https://www.zdnet.com&lt;/a&gt;&lt;br&gt;&lt;br&gt;Software Development &amp;amp; Programming&lt;br&gt;GitHub Trending - &lt;a href=&#39;https://github.com/trending&#39;&gt;https://github.com/trending&lt;/a&gt;&lt;br&gt;DevDocs - &lt;a href=&#39;https://devdocs.io/&#39;&gt;https://devdocs.io/&lt;/a&gt;&lt;br&gt;JavaScript, CSS, HTML sandbox - &lt;a href=&#39;https://jsfiddle.net/&#39;&gt;https://jsfiddle.net/&lt;/a&gt;&lt;br&gt;MDN Web Docs - &lt;a href=&#39;https://developer.mozilla.org/&#39;&gt;https://developer.mozilla.org/&lt;/a&gt;&lt;br&gt;Stack Overflow Blog - &lt;a href=&#39;https://stackoverflow.blog/&#39;&gt;https://stackoverflow.blog/&lt;/a&gt;&lt;br&gt;&lt;br&gt;IT Operations &amp;amp; Infrastructure&lt;br&gt;AWS Service Health Dashboard - &lt;a href=&#39;https://status.aws.amazon.com/&#39;&gt;https://status.aws.amazon.com/&lt;/a&gt;&lt;br&gt;Cloudflare System Status - &lt;a href=&#39;https://www.cloudflarestatus.com/&#39;&gt;https://www.cloudflarestatus.com/&lt;/a&gt;&lt;br&gt;DownDetector - &lt;a href=&#39;https://downdetector.com/&#39;&gt;https://downdetector.com/&lt;/a&gt;&lt;br&gt;Microsoft Azure Status - &lt;a href=&#39;https://status.azure.com/&#39;&gt;https://status.azure.com/&lt;/a&gt;&lt;br&gt;Microsoft Office 365 Status - &lt;a href=&#39;https://portal.office.com/servicestatus&#39;&gt;https://portal.office.com/servicestatus&lt;/a&gt;&lt;br&gt;&lt;br&gt;Previous thread: &lt;a href=&#34;/g/thread/104880828#p104880828&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104880828&lt;/a&gt;&lt;img alt=&#39;1651540192831.jpg&#39; src=&#39;http://i.4cdn.org/g/1743388484585014.jpg&#39;/&gt;&lt;img alt=&#39;1743388484585014.jpg&#39; src=&#39;http://i.4cdn.org/g/1743388484585014s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[257] They phoned it in this year</title>
-    <updated>2025-04-01T05:36:02Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/g/thread/104918784/</id>
-    <link href="https://boards.4channel.org/g/thread/104918784/" rel="alternate"></link>
-    <summary type="html">They phoned it in this year&lt;img alt=&#39;do4e.jpg&#39; src=&#39;http://i.4cdn.org/g/1743485762703327.jpg&#39;/&gt;&lt;img alt=&#39;1743485762703327.jpg&#39; src=&#39;http://i.4cdn.org/g/1743485762703327s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 97] /fglt/ - Friendly GNU/Linux Thread</title>
-    <updated>2025-03-31T13:50:45Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104910741/</id>
-    <link href="https://boards.4channel.org/g/thread/104910741/" rel="alternate"></link>
-    <summary type="html">***** Please be civil, notice the &amp;quot;Friendly&amp;quot; in every Friendly GNU/Linux Thread *****&lt;br&gt;Users of all levels are welcome to ask questions about GNU/Linux and share their experiences.&lt;br&gt;Before asking for help, please check our list of resources.&lt;br&gt;&lt;br&gt;If you would like to try out GNU/Linux you can do one of the following:&lt;br&gt;1) Go balls deep and replace everything with GNU/Linux. Death to Windows. Death to Apple.&lt;br&gt;&lt;br&gt;Resources: Please spend at least a minute to check a web search engine with your question.&lt;br&gt;Many free software projects have active mailing lists.&lt;br&gt;&lt;br&gt;$ man %command%&lt;br&gt;$ info %command%&lt;br&gt;$ %command% -h/--help&lt;br&gt;$ help %builtin/keyword%&lt;br&gt;&lt;br&gt;Don&amp;#039;t know what to look for?&lt;br&gt;$ apropos %something%&lt;br&gt;&lt;br&gt;Check the Wikis (most troubleshoots work for all distros):&lt;br&gt;wiki.debian.org&lt;br&gt;wiki.gentoo.org&lt;br&gt;wiki.archlinux.org&lt;br&gt;wiki.alpinelinux.org&lt;br&gt;&lt;br&gt;/g/&amp;#039;s Wiki on GNU/Linux:&lt;br&gt;gnu.org/gnu/gnu-linux-faq.en.html&lt;br&gt;wikipedia.org/wiki/GNU/Linux_naming_controversy&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Which distro should I choose?&lt;/span&gt;&lt;br&gt;nosystemd.org (SystemD is bloated malware)&lt;br&gt;gnu.org/distros/free-distros.en.html (FSF approved)&lt;br&gt;distrowatch.com/dwres.php?resource=major (Major Distributions)&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What are some cool programs?&lt;/span&gt;&lt;br&gt;harmful.cat-v.org/software&lt;br&gt;suckless.org/rocks&lt;br&gt;directory.fsf.org/wiki/Main_Page&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What are some cool terminal commands and where can I learn the command line?&lt;/span&gt;&lt;br&gt;mywiki.wooledge.org/BashGuide&lt;br&gt;commandlinefu.com/commands/browse&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Where can I learn more about Free Software?&lt;/span&gt;&lt;br&gt;fsf.org&lt;br&gt;gnu.org&lt;br&gt;stallman.org&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;How to break out of the botnet?&lt;/span&gt;&lt;br&gt;ryf.fsf.org/products&lt;br&gt;fsf.org/resources/hw&lt;br&gt;en.wikipedia.org/wiki/Open-source_hardware&lt;br&gt;&lt;a href=&#39;https://www.youtube.com/watch?v=Ag1AKIl_2GM&#39;&gt;https://www.youtube.com/watch?v=Ag1AKIl_2GM&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;GNU/Linux Games: &lt;a href=&#34;//boards.4chan.org/t/thread/1175569#p1175569&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/t/1175569&lt;/a&gt; &lt;a href=&#34;//boards.4chan.org/vg/catalog#s=lgg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/vg/lgg&lt;/a&gt;&lt;br&gt;IRC: #sqt on Rizon&lt;br&gt;Previous thread: &lt;a href=&#34;/g/thread/104893685#p104893685&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104893685&lt;/a&gt;&lt;img alt=&#39;1494701505437.jpg&#39; src=&#39;http://i.4cdn.org/g/1743429045656959.jpg&#39;/&gt;&lt;img alt=&#39;1743429045656959.jpg&#39; src=&#39;http://i.4cdn.org/g/1743429045656959s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[163] &gt;lightest gaming mouse only 0.0000000000000000000000000000000000000000000000000</title>
-    <updated>2025-03-30T18:21:28Z</updated>
-    <id>tag:boards.4channel.org,2025-03-30:/g/thread/104902475/</id>
-    <link href="https://boards.4channel.org/g/thread/104902475/" rel="alternate"></link>
-    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;lightest gaming mouse only 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001g&lt;/span&gt;&lt;br&gt;What causes this?&lt;img alt=&#39;61zsH4FQniS._AC_SL1500_.jpg&#39; src=&#39;http://i.4cdn.org/g/1743358888801544.jpg&#39;/&gt;&lt;img alt=&#39;1743358888801544.jpg&#39; src=&#39;http://i.4cdn.org/g/1743358888801544s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 38] /CSG/ - Chink Shit general</title>
-    <updated>2025-03-31T21:59:13Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/g/thread/104915276/</id>
-    <link href="https://boards.4channel.org/g/thread/104915276/" rel="alternate"></link>
-    <summary type="html">Everything is already from China, but here we discuss the cheap chink shit you see on various sites.&lt;br&gt;&lt;br&gt;1st rule of /csg/: if it looks too good to be true, it probably is.&lt;br&gt;&lt;br&gt;Useful links&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;TWS IEM reviews: &lt;a href=&#39;https://www.scarbir.com/&#39;&gt;https://www.scarbir.com/&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Guide: &lt;a href=&#39;https://csg-guide.neocities.org/&#39;&gt;https://csg-guide.neocities.org/&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;installgentoo wiki: &lt;a href=&#39;https://wiki.installgentoo.com/wiki/Chink_shit_general&#39;&gt;https://wiki.installgentoo.com/wiki/Chink_shit_general&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What headphones/earbuds should I buy?&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/g/catalog#s=iemg&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/g/iemg&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;I want a cheap smartphone what should I buy?&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/g/catalog#s=spg%2F&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/g/spg/&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;I want to buy some sort of emulation device&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/vr/catalog#s=hhg%2F&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/vr/hhg/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;News&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104869087&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104869087&lt;/a&gt; - Anon reviews a big haul with fishing, watch and kitchen stuff&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104869270&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104869270&lt;/a&gt; - Anon reviews &amp;quot;The alchemist&amp;quot;, apparently books are csg now&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104869561&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104869561&lt;/a&gt; - 1963 Chronograph mechanical watch review&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104874217&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104874217&lt;/a&gt; - Thermal camera discussion&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104869556&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104869556&lt;/a&gt; - Cheap rotary tool discussion&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104881059&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104881059&lt;/a&gt; - small bundle review&lt;br&gt;&lt;a href=&#34;/g/thread/104868467#p104886165&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104886165&lt;/a&gt; - Fishing anon returns&lt;br&gt;(cont. for filter reasons)&lt;br&gt;&lt;br&gt;Previous: &lt;a href=&#34;/g/thread/104868467#p104868467&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104868467&lt;/a&gt;&lt;br&gt;Previous previous: &lt;a href=&#34;/g/thread/104837972#p104837972&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;104837972&lt;/a&gt;&lt;img alt=&#39;csg.jpg&#39; src=&#39;http://i.4cdn.org/g/1743458353806195.jpg&#39;/&gt;&lt;img alt=&#39;1743458353806195.jpg&#39; src=&#39;http://i.4cdn.org/g/1743458353806195s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>NeoOP</name>
     </author>
   </entry>
   <entry>
@@ -438,57 +488,27 @@
     </author>
   </entry>
   <entry>
-    <title>[185] ”There were once people that dressed their Pokémon in lingerie.”&#xD; ”There</title>
-    <updated>2025-03-27T18:27:17Z</updated>
-    <id>tag:boards.4channel.org,2025-03-27:/vp/thread/57628337/</id>
-    <link href="https://boards.4channel.org/vp/thread/57628337/" rel="alternate"></link>
-    <summary type="html">”There were once people that dressed their Pokémon in lingerie.”&lt;br&gt;”There were once Pokémon that dressed in lingerie for people.’’&lt;br&gt;”This was a normal thing because long ago people weren’t puritanical.”&lt;br&gt;What did Gamefreak mean by this?&lt;img alt=&#39;IMG_3107.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743100037823466.jpg&#39;/&gt;&lt;img alt=&#39;1743100037823466.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743100037823466s.jpg&#39;/&gt;</summary>
+    <title>[ 97] /ss/ - Serena Sunday</title>
+    <updated>2025-03-30T15:17:29Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/vp/thread/57645039/</id>
+    <link href="https://boards.4channel.org/vp/thread/57645039/" rel="alternate"></link>
+    <summary type="html">It&amp;#039;s the best day of the week!&lt;br&gt;&lt;br&gt;Post all of your Serenas and Y-chans here!&lt;br&gt;&lt;br&gt;Previous thread: &lt;a href=&#34;/vp/thread/57602287#p57602287&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57602287&lt;/a&gt;&lt;img alt=&#39;GlWQrzYboAAxbEd.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743347849587338.jpg&#39;/&gt;&lt;img alt=&#39;1743347849587338.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743347849587338s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[191] /tcgp/ - Pokémon TCG Pocket General</title>
-    <updated>2025-04-01T04:21:59Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/vp/thread/57655244/</id>
-    <link href="https://boards.4channel.org/vp/thread/57655244/" rel="alternate"></link>
-    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;Friend ID Survey: &lt;a href=&#39;https://forms.gle/AZyQQ2SfGeCKjXNh9&#39;&gt;https://forms.gle/AZyQQ2SfGeCKjXNh9&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Friend ID Sheet: &lt;a href=&#39;https://docs.google.com/spreadsheets/d/1DGhOfaMX6D_YUR-P39_OJdVmAl0uacohIRstE9oN9SQ/edit?usp=sharing&#39;&gt;https://docs.google.com/spreadsheets/d/1DGhOfaMX6D_YUR-P39_OJdVmAl0uacohIRstE9oN9SQ/edit?usp=sharing&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Tournament results/decklists: &lt;a href=&#39;https://play.limitlesstcg.com/tournaments/completed?game=POCKET&#39;&gt;https://play.limitlesstcg.com/tournaments/completed?game=POCKET&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Deck Builder: &lt;a href=&#39;https://my.limitlesstcg.com/builder&#39;&gt;https://my.limitlesstcg.com/builder&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Datamines, etc.: &lt;a href=&#39;https://ptcgp.raenonx.cc/en&#39;&gt;https://ptcgp.raenonx.cc/en&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Shining Revelry card list: &lt;a href=&#39;https://www.pokemon-zone.com/sets/a2b/&#39;&gt;https://www.pokemon-zone.com/sets/a2b/&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;/vp/ battle passwords to battle with other anons (consider writing a post to recruit players)&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/vp/‘s own meta (no random effects, no ex): vpnx&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;meta decks or high level play: vpmeta&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/vp/ anything: vp&lt;/span&gt;&lt;br&gt;&lt;br&gt;Previous: &lt;a href=&#34;/vp/thread/57651736#p57651736&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57651736&lt;/a&gt;&lt;img alt=&#39;IMG_9681.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743481319465053.jpg&#39;/&gt;&lt;img alt=&#39;1743481319465053.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743481319465053s.jpg&#39;/&gt;</summary>
+    <title>[138] I love her so much</title>
+    <updated>2025-03-30T18:43:35Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/vp/thread/57646339/</id>
+    <link href="https://boards.4channel.org/vp/thread/57646339/" rel="alternate"></link>
+    <summary type="html">I love her so much&lt;img alt=&#39;nemona_by_pokearceus_dg8dvy0-pre.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743360215917301.jpg&#39;/&gt;&lt;img alt=&#39;1743360215917301.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743360215917301s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[ 94] Post your favorite cutemons</title>
-    <updated>2025-03-31T19:32:45Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/vp/thread/57652445/</id>
-    <link href="https://boards.4channel.org/vp/thread/57652445/" rel="alternate"></link>
-    <summary type="html">I don&amp;#039;t care if they&amp;#039;re shitmons or not, I just wanna see some cute pokemon&lt;img alt=&#39;whimsicott.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743449565945505.jpg&#39;/&gt;&lt;img alt=&#39;1743449565945505.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743449565945505s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[143] Fanfic/Fan Work Thread</title>
-    <updated>2025-03-29T16:22:17Z</updated>
-    <id>tag:boards.4channel.org,2025-03-29:/vp/thread/57639630/</id>
-    <link href="https://boards.4channel.org/vp/thread/57639630/" rel="alternate"></link>
-    <summary type="html">A thread for the creation and discussion of fan fiction and other fanworks - anything that involves a story and/or reading. What&amp;#039;ve you been reading? What&amp;#039;ve you been writing? What would you like to see more of?&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Thread question:&lt;/span&gt;&lt;br&gt;Why are there only 18 types? Are pokemon types some fundamental constant of the universe? Could there be more? Could there be fewer? Could mankind invent a new type? Does Shadow count?&lt;br&gt;&lt;br&gt;Old:&lt;br&gt;&lt;a href=&#34;/vp/thread/57615931#p57615931&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57615931&lt;/a&gt;&lt;img alt=&#39;joy typing 56.webm&#39; src=&#39;http://i.4cdn.org/vp/1743265337662861.webm&#39;/&gt;&lt;img alt=&#39;1743265337662861.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743265337662861s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[169] Post harder, you sons of eevees</title>
-    <updated>2025-04-01T08:24:01Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/vp/thread/57656164/</id>
-    <link href="https://boards.4channel.org/vp/thread/57656164/" rel="alternate"></link>
-    <summary type="html">Post harder, you sons of eevees&lt;img alt=&#39;1591439851123.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743495841920920.jpg&#39;/&gt;&lt;img alt=&#39;1743495841920920.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743495841920920s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[129] /padt/ - Pokémon Anime Discussion Thread</title>
+    <title>[130] /padt/ - Pokémon Anime Discussion Thread</title>
     <updated>2025-04-01T03:40:09Z</updated>
     <id>tag:boards.4channel.org,2025-04-01:/vp/thread/57655105/</id>
     <link href="https://boards.4channel.org/vp/thread/57655105/" rel="alternate"></link>
@@ -498,61 +518,141 @@
     </author>
   </entry>
   <entry>
-    <title>[246] /tog/ - Trainer OCs General</title>
-    <updated>2025-03-30T01:26:03Z</updated>
-    <id>tag:boards.4channel.org,2025-03-30:/vp/thread/57642522/</id>
-    <link href="https://boards.4channel.org/vp/thread/57642522/" rel="alternate"></link>
-    <summary type="html">Discuss Trainer OCs and further your designs/writing behind them through discussion with others. Be cool, be cringy, be creative, just leave your ERPing at the door.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Thread Question: What is your OC&amp;#039;s favorite pastime? Do they involve their Pokémon in it?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Drawing task: Draw your OC&amp;#039;s ace in its best outfit (or just any outfit) &lt;/span&gt;&lt;s&gt;this task is being rerun because nobody did it last time&lt;/s&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Writing Task: Your OC has met with their greatest rival. Where? A casual encounter? The finals of a big tournament? The final confrontation? You decide!&lt;/span&gt;&lt;br&gt;&lt;s&gt;Hard mode: Choose ANOTHER OC, not just your OC’s regular bad guy. It doesn’t have to be an antagonistic confrontation.&lt;/s&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/tog/ artfaggotry&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://mega.nz/folder/hKggRQbD#kPCbp_-Ae68nbR9cYIuRcA&#39;&gt;https://mega.nz/folder/hKggRQbD#kPCbp_-Ae68nbR9cYIuRcA&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/tog/ writefaggotry&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/ZdM8Hpnx&#39;&gt;https://pastebin.com/ZdM8Hpnx&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;OP template&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/CNs7J7L1&#39;&gt;https://pastebin.com/CNs7J7L1&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;I don&amp;#039;t know how to make a character!&lt;/span&gt;&lt;br&gt;Brainstorming ideas and dice rolls [NEWBIE-FRIENDLY CREATION TABLES WITHIN]:&lt;br&gt;&lt;a href=&#39;https://pastebin.com/5BA85WPK&#39;&gt;https://pastebin.com/5BA85WPK&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;I don&amp;#039;t know how to draw!&lt;/span&gt;&lt;br&gt;Picrew links, Sprite-making programs and resources, and AI-generated content:&lt;br&gt;&lt;a href=&#39;https://pastebin.com/BR0sac53&#39;&gt;https://pastebin.com/BR0sac53&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;I want to learn how to draw!&lt;/span&gt;&lt;br&gt;Drawing tutorials and Drawing Program Downloads:&lt;br&gt;&lt;a href=&#39;https://pastebin.com/6pdqaJ3m&#39;&gt;https://pastebin.com/6pdqaJ3m&lt;/a&gt;&lt;br&gt;&lt;br&gt;Extra Resources Coming Eventually.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Recent Works&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Ceniza and Jacques (KOA REALLY WANTS YOU TO READ THIS)&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://files.catbox.moe/q2jxyt.pdf&#39;&gt;https://files.catbox.moe/q2jxyt.pdf&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Pokemon Mafia Tales: Chapters 1-4&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/u/pokemon_mafia_writer&#39;&gt;https://pastebin.com/u/pokemon_mafia_writer&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Louis Bio (Updated)&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/igDpcVhA&#39;&gt;https://pastebin.com/igDpcVhA&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Another thing by Louis:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/xmKAr1C3&#39;&gt;https://pastebin.com/xmKAr1C3&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Previous thread: &lt;a href=&#34;/vp/thread/57600972#p57600972&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57600972&lt;/a&gt;&lt;/span&gt;&lt;img alt=&#39;ladies.png&#39; src=&#39;http://i.4cdn.org/vp/1743297963008144.png&#39;/&gt;&lt;img alt=&#39;1743297963008144.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743297963008144s.jpg&#39;/&gt;</summary>
+    <title>[ 85] /pmdg/: Merchant Edition</title>
+    <updated>2025-03-29T04:26:31Z</updated>
+    <id>tag:boards.4channel.org,2025-03-29:/vp/thread/57637217/</id>
+    <link href="https://boards.4channel.org/vp/thread/57637217/" rel="alternate"></link>
+    <summary type="html">Come here for talk about all things Pokemon Mystery Dungeon.&lt;br&gt;&lt;br&gt;Previous thread: &lt;a href=&#39;https://arch.b4k.dev/vp/thread/57563438/&#39;&gt;https://arch.b4k.dev/vp/thread/57563438/&lt;/a&gt; &lt;a href=&#34;/vp/thread/57563438#p57563438&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57563438&lt;/a&gt;&lt;br&gt;&lt;br&gt;PMD Catalog (read Branches.txt for MEGA navigation): &lt;a href=&#39;https://mega.nz/folder/gi5k2DBL#wVscYMtiXMuAeWDvKYyfmw&#39;&gt;https://mega.nz/folder/gi5k2DBL#wVscYMtiXMuAeWDvKYyfmw&lt;/a&gt;&lt;br&gt;&lt;br&gt;Pokémon Mystery Dungeon ROMs and Emulators Catalog: &lt;a href=&#39;https://mega.nz/folder/ciVjBRoD#5vICIpkn16o-i1co11yFFg&#39;&gt;https://mega.nz/folder/ciVjBRoD#5vICIpkn16o-i1co11yFFg&lt;/a&gt;&lt;br&gt;&lt;br&gt;PMD Fangames Catalog: &lt;a href=&#39;https://mega.nz/folder/Yyk3gQaI#NNSyFhuoa2Cg5HuL2oEyTg&#39;&gt;https://mega.nz/folder/Yyk3gQaI#NNSyFhuoa2Cg5HuL2oEyTg&lt;/a&gt;&lt;br&gt;&lt;br&gt;Romhacks Overview/Reviews: &lt;a href=&#39;https://rentry.org/pmdglph&#39;&gt;https://rentry.org/pmdglph&lt;/a&gt;&lt;br&gt;&lt;br&gt;PMD Fan Fiction Archive: &lt;a href=&#39;https://rentry.org/pmdg-ffarchive&#39;&gt;https://rentry.org/pmdg-ffarchive&lt;/a&gt;&lt;br&gt;&lt;br&gt;PMD Guides: &lt;a href=&#39;https://pastebin.com/Dbq61R5u&#39;&gt;https://pastebin.com/Dbq61R5u&lt;/a&gt;&lt;br&gt;Explorers of Sky Romhacking Guide: &lt;a href=&#39;https://rentry.org/skytempleguide&#39;&gt;https://rentry.org/skytempleguide&lt;/a&gt;&lt;br&gt;&lt;br&gt;Everything about the Clover Guild: &lt;a href=&#39;https://cloverguild.com/&#39;&gt;https://cloverguild.com/&lt;/a&gt;&lt;br&gt;Drawing Board: &lt;a href=&#39;https://magma.com/d/8cUhkuOPIe&#39;&gt;https://magma.com/d/8cUhkuOPIe&lt;/a&gt;&lt;br&gt;Mobile Drawing Board: &lt;a href=&#39;https://magma.com/d/mpfdj7k0mo&#39;&gt;https://magma.com/d/mpfdj7k0mo&lt;/a&gt;&lt;br&gt;Drawing Request: &lt;a href=&#39;https://rentry.org/DrawReqPublic&#39;&gt;https://rentry.org/DrawReqPublic&lt;/a&gt;&lt;br&gt;&lt;br&gt;Questions:&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Would you like the next PMD game to feature a guild, or be more like Rescue Team where you&amp;#039;re on your own?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;How do you think written language works in PMD? Everyone uses one script or scripts vary from region to region?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Why do you think pokemon can only evolve in specific places like luminous cave?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Do you like how any pokemon can become strong in PMD, or do you wish evolution was required to become stronger?&lt;/span&gt;&lt;br&gt;&lt;br&gt;Recap of the previous thread:&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Sceptile-Anon updated his comic Emerald Spark (&lt;a href=&#39;https://rentry.co/EmeraldSpark_01&#39;&gt;https://rentry.co/EmeraldSpark_01&lt;/a&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;No new stories last thread. There were a lot the thread prior.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Discussion on game mechanics, art, and the school segment in PSMD&lt;/span&gt;&lt;img alt=&#39;pkmguildzine_art_by_pumpkinpirate.png&#39; src=&#39;http://i.4cdn.org/vp/1743222391738819.png&#39;/&gt;&lt;img alt=&#39;1743222391738819.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743222391738819s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[ 84] Pokemon Comics</title>
-    <updated>2025-04-01T08:39:47Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/vp/thread/57656194/</id>
-    <link href="https://boards.4channel.org/vp/thread/57656194/" rel="alternate"></link>
-    <summary type="html">In this thread&lt;br&gt;We post Pokemon comics&lt;br&gt;All Pokemon themed comics are welcome&lt;br&gt;Let us save /vp/ from deletion&lt;img alt=&#39;Islam Destroys Gender Ideology.png&#39; src=&#39;http://i.4cdn.org/vp/1743496787947280.png&#39;/&gt;&lt;img alt=&#39;1743496787947280.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743496787947280s.jpg&#39;/&gt;</summary>
+    <title>[201] Pokemon of Unusual Size</title>
+    <updated>2025-03-15T00:43:43Z</updated>
+    <id>tag:boards.4channel.org,2025-03-15:/vp/thread/57560249/</id>
+    <link href="https://boards.4channel.org/vp/thread/57560249/" rel="alternate"></link>
+    <summary type="html">ITT: post and discuss unusually big and small Pokemon.&lt;br&gt;Remember to keep it SFW.&lt;img alt=&#39;large sheep.jpg&#39; src=&#39;http://i.4cdn.org/vp/1741999423874569.jpg&#39;/&gt;&lt;img alt=&#39;1741999423874569.jpg&#39; src=&#39;http://i.4cdn.org/vp/1741999423874569s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[102] //boards.4chan.org/y/&gt;&gt;&gt;&#xD; //boards.4chan.org/t/&gt;&gt;&gt;&#xD; //boards.4chan.org/hm/&gt;&gt;&gt;</title>
-    <updated>2025-04-01T05:09:20Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/vp/thread/57655426/</id>
-    <link href="https://boards.4channel.org/vp/thread/57655426/" rel="alternate"></link>
-    <summary type="html">&lt;a href=&#34;//boards.4chan.org/y/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/y/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/t/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/t/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/hm/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/hm/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/wsr/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/wsr/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/diy/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/diy/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/gd/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/gd/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/3/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/3/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/wg/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/wg/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/po/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/po/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/i/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/i/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/xs/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/xs/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/n/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/n/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/cm/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/cm/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/cgl/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/cgl/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;//boards.4chan.org/w/&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;&amp;gt;/w/&lt;/a&gt;&lt;br&gt;All gone. We&amp;#039;re next, bros...&lt;img alt=&#39;1657475247558.png&#39; src=&#39;http://i.4cdn.org/vp/1743484160355368.png&#39;/&gt;&lt;img alt=&#39;1743484160355368.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743484160355368s.jpg&#39;/&gt;</summary>
+    <title>[ 32] /wfg/ - WiFi General</title>
+    <updated>2025-03-29T17:52:28Z</updated>
+    <id>tag:boards.4channel.org,2025-03-29:/vp/thread/57640113/</id>
+    <link href="https://boards.4channel.org/vp/thread/57640113/" rel="alternate"></link>
+    <summary type="html">Trade - Battle - Breed - Make Lasting Friendships…? &amp;gt;////&amp;lt;&lt;br&gt;&lt;br&gt;This thread isn&amp;#039;t for Hacks, Clones, or Injections. There are other threads for those.&lt;br&gt;&lt;br&gt;A more in-depth explanation of how the thread works: &lt;a href=&#39;https://pastebin.com/p0keKZ5e&#39;&gt;https://pastebin.com/p0keKZ5e&lt;/a&gt;&lt;br&gt;&lt;br&gt;Old: &lt;a href=&#34;/vp/thread/57574770#p57574770&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57574770&lt;/a&gt;&lt;br&gt;RIP /shg/ &amp;amp; /shw/&lt;img alt=&#39;IMG_1473.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743270748391464.jpg&#39;/&gt;&lt;img alt=&#39;1743270748391464.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743270748391464s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[219] /tcc/ - Trading Card Collector&#39;s General&#xD; Frog Edition&#xD; &#xD; Previous: /vp/thread/</title>
-    <updated>2025-03-30T16:51:22Z</updated>
-    <id>tag:boards.4channel.org,2025-03-30:/vp/thread/57645560/</id>
-    <link href="https://boards.4channel.org/vp/thread/57645560/" rel="alternate"></link>
-    <summary type="html">/tcc/ - Trading Card Collector&amp;#039;s General&lt;br&gt;Frog Edition&lt;br&gt;&lt;br&gt;Previous: &lt;a href=&#34;/vp/thread/57634959#p57634959&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57634959&lt;/a&gt;&lt;br&gt;&lt;br&gt;scalpers, youtubers, investorfags and schizos get the rope &lt;br&gt;&lt;br&gt;FAQ: &lt;a href=&#39;https://pastebin.com/MypNBzca&#39;&gt;https://pastebin.com/MypNBzca&lt;/a&gt;&lt;img alt=&#39;1000010413.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743353482943361.jpg&#39;/&gt;&lt;img alt=&#39;1743353482943361.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743353482943361s.jpg&#39;/&gt;</summary>
+    <title>[309] /mg/ - May General</title>
+    <updated>2025-03-30T05:21:49Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/vp/thread/57643432/</id>
+    <link href="https://boards.4channel.org/vp/thread/57643432/" rel="alternate"></link>
+    <summary type="html">Post Mays, Harukas, Sapphires, and her Pokémon too!&lt;br&gt;&lt;br&gt;May OC (temp)&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;&lt;a href=&#39;https://pastebin.com/XKrS9R3Z&#39;&gt;https://pastebin.com/XKrS9R3Z&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Previous:&lt;a href=&#34;/vp/thread/57616037#p57616037&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57616037&lt;/a&gt;&lt;img alt=&#39;1742942360076735.png&#39; src=&#39;http://i.4cdn.org/vp/1743312109033080.png&#39;/&gt;&lt;img alt=&#39;1743312109033080.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743312109033080s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[220] /pmg/ - Pokémon Masters EX General</title>
-    <updated>2025-03-29T22:10:23Z</updated>
-    <id>tag:boards.4channel.org,2025-03-29:/vp/thread/57641441/</id>
-    <link href="https://boards.4channel.org/vp/thread/57641441/" rel="alternate"></link>
-    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;What is Pokémon Masters EX?&lt;/span&gt;&lt;br&gt;A mobile Pokémon game that&amp;#039;s real-time instead of turn-based and focuses on collecting trainers instead of Pokémon.&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Pokemon Masters EX Links and Guides&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://docs.google.com/document/d/18n7Uvdb2_5UgWH-O0DkXHkogNbMkxRiBIaBpCJHIR0A/&#39;&gt;https://docs.google.com/document/d/18n7Uvdb2_5UgWH-O0DkXHkogNbMkxRiBIaBpCJHIR0A/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Sync Grid Simulator&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pomatools.github.io/&#39;&gt;https://pomatools.github.io/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Sync Pair Tracker&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pomasters.github.io/SyncPairsTracker/&#39;&gt;https://pomasters.github.io/SyncPairsTracker/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://pokemon.brybry.ch/masters/programme.html&#39;&gt;https://pokemon.brybry.ch/masters/programme.html&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Model ripping/datamining project (3vp) FAQ&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/6GWPiFu1&#39;&gt;https://pastebin.com/6GWPiFu1&lt;/a&gt; (embed)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Upcoming Events&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pm-events.github.io&#39;&gt;https://pm-events.github.io&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/u/Absol-utely&#39;&gt;https://pastebin.com/u/Absol-utely&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Pokémon Masters EX soundtrack with the latest tracks&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://mega.nz/folder/bwp3iQrY#IiZ1Uxz0xwutZHENqntDeA&#39;&gt;https://mega.nz/folder/bwp3iQrY#IiZ1Uxz0xwutZHENqntDeA&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/pmg/ Clears Repository&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.youtube.com/channel/UCJktTrMaNTVHvNz4dsjSmGg/videos&#39;&gt;https://www.youtube.com/channel/UCJktTrMaNTVHvNz4dsjSmGg/videos&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Trainer Lodge Interaction Charts&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://drive.google.com/drive/mobile/folders/1GET825rR31lZD9RWSKDh7gtrHs5_0giA&#39;&gt;https://drive.google.com/drive/mobile/folders/1GET825rR31lZD9RWSKDh7gtrHs5_0giA&lt;/a&gt;&lt;br&gt;&lt;br&gt;Previous Thread: &lt;a href=&#34;/vp/thread/57606062#p57606062&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57606062&lt;/a&gt;&lt;img alt=&#39;GmkveU3bkAAOa-G.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743286223530505.jpg&#39;/&gt;&lt;img alt=&#39;1743286223530505.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743286223530505s.jpg&#39;/&gt;</summary>
+    <title>[157] /Ruse/day: BEANS edition</title>
+    <updated>2025-03-18T14:01:52Z</updated>
+    <id>tag:boards.4channel.org,2025-03-18:/vp/thread/57576616/</id>
+    <link href="https://boards.4channel.org/vp/thread/57576616/" rel="alternate"></link>
+    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;autist OP count: 113&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;threads since counter: 120&lt;/span&gt;&lt;br&gt;&lt;br&gt;Previous thread:&lt;br&gt;&lt;span class=&#34;deadlink&#34;&gt;&amp;gt;&amp;gt;57448972&lt;/span&gt;&lt;br&gt;&lt;br&gt;Rusefox GF pastebin:&lt;br&gt;&lt;a href=&#39;https://pastebin.com/G0tjqZa5&#39;&gt;https://pastebin.com/G0tjqZa5&lt;/a&gt;&lt;br&gt;&lt;br&gt;Zoroark Mom &amp;amp; Blind Son write.as:&lt;br&gt;&lt;a href=&#39;https://write.as/fp2c00lqrtc12ehy.md&#39;&gt;https://write.as/fp2c00lqrtc12ehy.md&lt;/a&gt;&lt;br&gt;&lt;br&gt;Zoroark GF stuff (bouts of high horny, lewds not shown):&lt;br&gt;&lt;a href=&#39;https://write.as/m5g64340lxjug2dp.md&#39;&gt;https://write.as/m5g64340lxjug2dp.md&lt;/a&gt;&lt;br&gt;&lt;br&gt;Untitled fic (deceptive Zoro GF):&lt;br&gt;&lt;a href=&#39;https://pastebin.com/MpCifp8u&#39;&gt;https://pastebin.com/MpCifp8u&lt;/a&gt;&lt;br&gt;&lt;br&gt;Mega Ruse (chronicles of freakin&amp;#039; huge ruse foxes):&lt;br&gt;&lt;a href=&#39;https://rentry.org/ygcg7838&#39;&gt;https://rentry.org/ygcg7838&lt;/a&gt;&lt;img alt=&#39;1740527482708717.jpg&#39; src=&#39;http://i.4cdn.org/vp/1742306512005667.jpg&#39;/&gt;&lt;img alt=&#39;1742306512005667.jpg&#39; src=&#39;http://i.4cdn.org/vp/1742306512005667s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[137] /f1/ - Relentless Formula One General - White Bull Edition</title>
+    <title>[ 38] What&#39;s wrong with her eyes?</title>
+    <updated>2025-03-29T13:25:10Z</updated>
+    <id>tag:boards.4channel.org,2025-03-29:/vp/thread/57638750/</id>
+    <link href="https://boards.4channel.org/vp/thread/57638750/" rel="alternate"></link>
+    <summary type="html">What&amp;#039;s wrong with her eyes?&lt;img alt=&#39;XY_Valerie.png&#39; src=&#39;http://i.4cdn.org/vp/1743254710605431.png&#39;/&gt;&lt;img alt=&#39;1743254710605431.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743254710605431s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Connor.</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[155] /Kiki/ - Kieran General #69</title>
+    <updated>2025-03-26T23:06:03Z</updated>
+    <id>tag:boards.4channel.org,2025-03-26:/vp/thread/57623499/</id>
+    <link href="https://boards.4channel.org/vp/thread/57623499/" rel="alternate"></link>
+    <summary type="html">Lazy bug edition&lt;br&gt;Previous thread: &lt;a href=&#34;/vp/thread/57550977#p57550977&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;57550977&lt;/a&gt;&lt;img alt=&#39;128453108_p0.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743030363449165.jpg&#39;/&gt;&lt;img alt=&#39;1743030363449165.jpg&#39; src=&#39;http://i.4cdn.org/vp/1743030363449165s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[147] /f1/ - Relentless Formula One General - White Bull Edition</title>
     <updated>2025-04-01T12:28:19Z</updated>
     <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147940090/</id>
     <link href="https://boards.4channel.org/sp/thread/147940090/" rel="alternate"></link>
     <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;Lap:&lt;/span&gt;&lt;br&gt;#7757&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Countdown to LENOVO JAV GP:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://f1exposure.com&#39;&gt;https://f1exposure.com&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Previous thread:&lt;/span&gt;&lt;br&gt;&lt;a href=&#34;/sp/thread/147937391#p147937391&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147937391&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/f1/ Essentials:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/Ufpi7Xpx&#39;&gt;https://pastebin.com/Ufpi7Xpx&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;FantasyGP.com /f1/ League Formula Autism:&lt;/span&gt;&lt;br&gt;Passcode: 12481614&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Fernando Alonso F1 Grands Prix since last win:&lt;/span&gt;&lt;br&gt;203 (202 starts)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Nico Hülkenberg F1 Grands Prix without ever scoring a podium:&lt;/span&gt;&lt;br&gt;232 (229 starts)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;2025 WDC Standings&lt;/span&gt;&lt;br&gt;NOR: 44 (+18)&lt;br&gt;VER: 36 (+12)&lt;br&gt;RUS: 35 (+15)&lt;br&gt;PIA: 34 (+25)&lt;br&gt;ANT: 22 (+8)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;2025 WCC Standings&lt;/span&gt;&lt;br&gt;McLaren Mercedes: 78 (+43)&lt;br&gt;Mercedes: 57 (+23)&lt;br&gt;Red Bull Racing Honda RBPT: 36 (+12)&lt;br&gt;Williams Mercedes: 17 (+7)&lt;br&gt;Ferrari: 17 (+0)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;2025 WEC Standings&lt;/span&gt;&lt;br&gt;LAW: 168.65 (+87.06)&lt;br&gt;HAD: 147.26 (+65.67)&lt;br&gt;HAM: 139.19 (+69.15)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;News:&lt;/span&gt;&lt;br&gt;Doohan to miss first practice at Suzuka as Hirakawa makes home debut for Alpine&lt;br&gt;Red Bull should have signed Hulkenberg – Ralf&lt;br&gt;2026 will be ‘the end’ of Alonso’s F1 career – Ralf&lt;br&gt;Piastri sure he can beat Norris to 2025 title&lt;br&gt;Torger, actual devil – not Susie, the whore – to take on Ben Sulayem for FIA Presidency&lt;br&gt;Russell offers major Mercedes boost despite key problem &lt;br&gt;Aston Martin’s F1 future “as secure as ever” as carmaker sells stake in team&lt;img alt=&#39;1743486874686789.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743510499573718.jpg&#39;/&gt;&lt;img alt=&#39;1743510499573718.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743510499573718s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[316] /mlb/</title>
+    <updated>2025-04-01T04:50:52Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147937324/</id>
+    <link href="https://boards.4channel.org/sp/thread/147937324/" rel="alternate"></link>
+    <summary type="html">PREVIOUS: &lt;a href=&#34;/sp/thread/147936003#p147936003&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147936003&lt;/a&gt;&lt;br&gt;&lt;br&gt;CLE: José Ramírez went 3-for-4 with a solo homer in a loss Monday to the Padres&lt;br&gt;SD: Manny Machado went 3-for-5 in the Padres’ win over the Guardians on Monday&lt;br&gt;LAA: Nolan Schanuel went 2-for-5 with an RBI and a steal as the Angels edged the Cardinals 5-4 in 10 innings Monday&lt;br&gt;SF: Matt Chapman went 1-for-3 with two RBI in a win over the Astros on Monday&lt;br&gt;WSH: Michael Soroka was removed from Monday’s start against the Blue Jays with bicep cramps&lt;br&gt;TOR: Bowden Francis pitched six innings of two-run ball to defeat the Nationals on Monday&lt;br&gt;CIN: Elly De La Cruz went 4-for-5 with two homers, a double, seven RBI and a steal in the Reds’ 14-3 drubbing of the Rangers on Monday&lt;br&gt;TB: Drew Rasmussen recorded four strikeouts over five shutout innings on Monday in a win over the Pirates&lt;img alt=&#39;1743440655355121.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743483052572927.jpg&#39;/&gt;&lt;img alt=&#39;1743483052572927.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743483052572927s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Son of Bakespie</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[368] /NBA/ general</title>
+    <updated>2025-04-01T02:22:02Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147935407/</id>
+    <link href="https://boards.4channel.org/sp/thread/147935407/" rel="alternate"></link>
+    <summary type="html">MVP edition &lt;br&gt;&lt;br&gt;previous thread &lt;a href=&#34;/sp/thread/147925395#p147925395&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147925395&lt;/a&gt;&lt;img alt=&#39;dubsola-jokic.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743474122485286.jpg&#39;/&gt;&lt;img alt=&#39;1743474122485286.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743474122485286s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[101] /nfl/ general: Riley Leonard edition</title>
+    <updated>2025-04-01T03:59:00Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147936643/</id>
+    <link href="https://boards.4channel.org/sp/thread/147936643/" rel="alternate"></link>
+    <summary type="html">Riley make ya seethe?&lt;img alt=&#39;OIP (27).jpg&#39; src=&#39;http://i.4cdn.org/sp/1743479940803922.jpg&#39;/&gt;&lt;img alt=&#39;1743479940803922.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743479940803922s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Joe Flacco&amp;#039;s Fu Manchu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[427] /tennis/</title>
+    <updated>2025-03-31T02:19:09Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/sp/thread/147924762/</id>
+    <link href="https://boards.4channel.org/sp/thread/147924762/" rel="alternate"></link>
+    <summary type="html">Sunshine Doubles edition&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Scores&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://flashscore.com/tennis&#39;&gt;https://flashscore.com/tennis&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Streams&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://tennis2.sportshub.stream/&#39;&gt;https://tennis2.sportshub.stream/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://freestreams-live.mp/tennis-live-stream17/&#39;&gt;https://freestreams-live.mp/tennis-live-stream17/&lt;/a&gt;&lt;br&gt;&lt;br&gt;Previous: &lt;a href=&#34;/sp/thread/147908102#p147908102&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147908102&lt;/a&gt;&lt;img alt=&#39;487930629_18495690766022388_4595554804532754732_n.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743387549024121.jpg&#39;/&gt;&lt;img alt=&#39;1743387549024121.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743387549024121s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[189] /colapib/ formerly /copalib/</title>
+    <updated>2025-03-31T23:35:33Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/sp/thread/147933672/</id>
+    <link href="https://boards.4channel.org/sp/thread/147933672/" rel="alternate"></link>
+    <summary type="html">Hulk Bunda edition&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/copalib/&lt;/span&gt;&lt;br&gt;21:30 Fortaleza - Rasin&lt;br&gt;23:00 Barcecopia - Del Valle&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;/sudakino/&lt;/span&gt;&lt;br&gt;19:00 Union Santa Fé - CruCero&lt;br&gt;21:30 11 Tails - Flu &lt;br&gt;21:30 CienciANO - Galo Bunda&lt;br&gt;AND MANY MORE KINO AWAITS&lt;br&gt;(Disclaimer: April 1st is fool&amp;#039;s day, do not regalate yourself easily!)&lt;br&gt;&lt;br&gt;&lt;a href=&#34;/sp/thread/147923417#p147923417&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147923417&lt;/a&gt;&lt;img alt=&#39;HULKBUNDA.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743464133760952.jpg&#39;/&gt;&lt;img alt=&#39;1743464133760952.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743464133760952s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[317] /cric/ - birb edition</title>
+    <updated>2025-03-29T18:14:33Z</updated>
+    <id>tag:boards.4channel.org,2025-03-29:/sp/thread/147895550/</id>
+    <link href="https://boards.4channel.org/sp/thread/147895550/" rel="alternate"></link>
+    <summary type="html">New Zealand won &lt;br&gt;South Australia won&lt;br&gt;Watch out nottingham zachys on the prowl&lt;img alt=&#39;1612112699043.png&#39; src=&#39;http://i.4cdn.org/sp/1743272073424259.png&#39;/&gt;&lt;img alt=&#39;1743272073424259.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743272073424259s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
@@ -588,127 +688,17 @@
     </author>
   </entry>
   <entry>
-    <title>[299] /mlb/</title>
-    <updated>2025-04-01T04:50:52Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147937324/</id>
-    <link href="https://boards.4channel.org/sp/thread/147937324/" rel="alternate"></link>
-    <summary type="html">PREVIOUS: &lt;a href=&#34;/sp/thread/147936003#p147936003&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147936003&lt;/a&gt;&lt;br&gt;&lt;br&gt;CLE: José Ramírez went 3-for-4 with a solo homer in a loss Monday to the Padres&lt;br&gt;SD: Manny Machado went 3-for-5 in the Padres’ win over the Guardians on Monday&lt;br&gt;LAA: Nolan Schanuel went 2-for-5 with an RBI and a steal as the Angels edged the Cardinals 5-4 in 10 innings Monday&lt;br&gt;SF: Matt Chapman went 1-for-3 with two RBI in a win over the Astros on Monday&lt;br&gt;WSH: Michael Soroka was removed from Monday’s start against the Blue Jays with bicep cramps&lt;br&gt;TOR: Bowden Francis pitched six innings of two-run ball to defeat the Nationals on Monday&lt;br&gt;CIN: Elly De La Cruz went 4-for-5 with two homers, a double, seven RBI and a steal in the Reds’ 14-3 drubbing of the Rangers on Monday&lt;br&gt;TB: Drew Rasmussen recorded four strikeouts over five shutout innings on Monday in a win over the Pirates&lt;img alt=&#39;1743440655355121.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743483052572927.jpg&#39;/&gt;&lt;img alt=&#39;1743483052572927.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743483052572927s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Son of Bakespie</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[359] /NBA/ general</title>
-    <updated>2025-04-01T02:22:02Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147935407/</id>
-    <link href="https://boards.4channel.org/sp/thread/147935407/" rel="alternate"></link>
-    <summary type="html">MVP edition &lt;br&gt;&lt;br&gt;previous thread &lt;a href=&#34;/sp/thread/147925395#p147925395&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;147925395&lt;/a&gt;&lt;img alt=&#39;dubsola-jokic.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743474122485286.jpg&#39;/&gt;&lt;img alt=&#39;1743474122485286.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743474122485286s.jpg&#39;/&gt;</summary>
+    <title>[140] Jamie was based to tell you the truth.</title>
+    <updated>2025-04-01T06:01:40Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148149033/</id>
+    <link href="https://boards.4channel.org/co/thread/148149033/" rel="alternate"></link>
+    <summary type="html">Jamie was based to tell you the truth.&lt;img alt=&#39;Ohexploitable.jpg&#39; src=&#39;http://i.4cdn.org/co/1743487300451019.jpg&#39;/&gt;&lt;img alt=&#39;1743487300451019.jpg&#39; src=&#39;http://i.4cdn.org/co/1743487300451019s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
   </entry>
   <entry>
-    <title>[316] /cric/ - birb edition</title>
-    <updated>2025-03-29T18:14:33Z</updated>
-    <id>tag:boards.4channel.org,2025-03-29:/sp/thread/147895550/</id>
-    <link href="https://boards.4channel.org/sp/thread/147895550/" rel="alternate"></link>
-    <summary type="html">New Zealand won &lt;br&gt;South Australia won&lt;br&gt;Watch out nottingham zachys on the prowl&lt;img alt=&#39;1612112699043.png&#39; src=&#39;http://i.4cdn.org/sp/1743272073424259.png&#39;/&gt;&lt;img alt=&#39;1743272073424259.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743272073424259s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[205] /wcbb/</title>
-    <updated>2025-03-30T16:36:16Z</updated>
-    <id>tag:boards.4channel.org,2025-03-30:/sp/thread/147914595/</id>
-    <link href="https://boards.4channel.org/sp/thread/147914595/" rel="alternate"></link>
-    <summary type="html">Women&amp;#039;s college basketball general, Elite 8 edition.&lt;br&gt;&lt;br&gt;NEWS: USC advances without Juju Watkins. HVL takes TCU to their first ever Elite 8. Paige Bueckers drops 40 in the Sweet 16. Third straight Elite 8 for LSU.&lt;br&gt;&lt;br&gt;Matchups:&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;1 South Carolina vs 2 Duke&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;1 UCLA vs 3 LSU&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;1 USC vs 2 UConn&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;1 Texas vs 2 TCU&lt;/span&gt;&lt;img alt=&#39;cb7e1-17271745640069-1920.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743352576618470.jpg&#39;/&gt;&lt;img alt=&#39;1743352576618470.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743352576618470s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 89] /147/ Snooker - Tour Championship</title>
-    <updated>2025-03-31T10:41:28Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/sp/thread/147927242/</id>
-    <link href="https://boards.4channel.org/sp/thread/147927242/" rel="alternate"></link>
-    <summary type="html">The Tour Championship begins today, from Manchester Central, Manchester, England&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Round 1 (bo19)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;13:00&lt;/span&gt;&lt;br&gt;Barry Hawkins v Shaun Murphy&lt;br&gt;Xiao Guodong v Wu Yize&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;19:00&lt;/span&gt;&lt;br&gt;Barry Hawkins v Shaun Murphy&lt;br&gt;Mark Williams v Ding Junhui&lt;br&gt;&lt;br&gt;Reigning champion Mark J Williams will be hoping he can overcome the Curse of Ding™ (&lt;a href=&#39;https://fredfreddo.github.io/2025/03/21/Ding-Junhui-s-Curse-A-Data-Analysis/&#39;&gt;https://fredfreddo.github.io/2025/03/21/Ding-Junhui-s-Curse-A-Data-Analysis/&lt;/a&gt;) and defend his title. &lt;br&gt;Kyren Wilson will be looking to continue his winning form from the Players Championship, to put himself on a good footing for the defence of his World Championship, and be the first player to overcome the Crucible Curse™.&lt;br&gt;&lt;br&gt;In other news Ng On Yee proved herself to be the Queen of Landywood™ by beating Mink Nutcharut 4-3 in the final of the British Women&amp;#039;s Open.&lt;img alt=&#39;6a48ffd0-f528-11ee-bceb-ef4e3774a9fb.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743417688107989.jpg&#39;/&gt;&lt;img alt=&#39;1743417688107989.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743417688107989s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 97] /nfl/ general: Riley Leonard edition</title>
-    <updated>2025-04-01T03:59:00Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/sp/thread/147936643/</id>
-    <link href="https://boards.4channel.org/sp/thread/147936643/" rel="alternate"></link>
-    <summary type="html">Riley make ya seethe?&lt;img alt=&#39;OIP (27).jpg&#39; src=&#39;http://i.4cdn.org/sp/1743479940803922.jpg&#39;/&gt;&lt;img alt=&#39;1743479940803922.jpg&#39; src=&#39;http://i.4cdn.org/sp/1743479940803922s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Joe Flacco&amp;#039;s Fu Manchu</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[288] Highest level of fursona insertion</title>
-    <updated>2025-03-30T16:04:11Z</updated>
-    <id>tag:boards.4channel.org,2025-03-30:/co/thread/148122171/</id>
-    <link href="https://boards.4channel.org/co/thread/148122171/" rel="alternate"></link>
-    <summary type="html">If I had a nickel for every time a popstar icon self inserted themselves in a big animated production as their sexy furry OC, I&amp;#039;d have two nickels, wich isn&amp;#039;t a lot but it&amp;#039;s weird that it happened twice.&lt;img alt=&#39;popstarfurryocs.png&#39; src=&#39;http://i.4cdn.org/co/1743350651919654.png&#39;/&gt;&lt;img alt=&#39;1743350651919654.jpg&#39; src=&#39;http://i.4cdn.org/co/1743350651919654s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 38] Welcome to our board..</title>
-    <updated>2025-04-01T12:47:03Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148153290/</id>
-    <link href="https://boards.4channel.org/co/thread/148153290/" rel="alternate"></link>
-    <summary type="html">Welcome to our board..&lt;img alt=&#39;maxresdefault (53).jpg&#39; src=&#39;http://i.4cdn.org/co/1743511623079238.jpg&#39;/&gt;&lt;img alt=&#39;1743511623079238.jpg&#39; src=&#39;http://i.4cdn.org/co/1743511623079238s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 39] Boards completey ruined</title>
-    <updated>2025-04-01T13:36:08Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148154011/</id>
-    <link href="https://boards.4channel.org/co/thread/148154011/" rel="alternate"></link>
-    <summary type="html">Boards completey ruined&lt;img alt=&#39;TDdTez.gif&#39; src=&#39;http://i.4cdn.org/co/1743514568495408.gif&#39;/&gt;&lt;img alt=&#39;1743514568495408.jpg&#39; src=&#39;http://i.4cdn.org/co/1743514568495408s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 43] Raisins thread</title>
-    <updated>2025-04-01T11:46:25Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148152446/</id>
-    <link href="https://boards.4channel.org/co/thread/148152446/" rel="alternate"></link>
-    <summary type="html">Raisins thread&lt;img alt=&#39;group01.jpg&#39; src=&#39;http://i.4cdn.org/co/1743507985592627.jpg&#39;/&gt;&lt;img alt=&#39;1743507985592627.jpg&#39; src=&#39;http://i.4cdn.org/co/1743507985592627s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[452] Death Battle</title>
-    <updated>2025-04-01T02:52:12Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148146234/</id>
-    <link href="https://boards.4channel.org/co/thread/148146234/" rel="alternate"></link>
-    <summary type="html">When will we get some GOOD capeshit matchups?&lt;img alt=&#39;IMG_5230.jpg&#39; src=&#39;http://i.4cdn.org/co/1743475932501530.jpg&#39;/&gt;&lt;img alt=&#39;1743475932501530.jpg&#39; src=&#39;http://i.4cdn.org/co/1743475932501530s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 88] Would /co/ be willing to help /mlp/ ascend to the status of most active board b</title>
-    <updated>2025-04-01T06:34:44Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148149512/</id>
-    <link href="https://boards.4channel.org/co/thread/148149512/" rel="alternate"></link>
-    <summary type="html">Would /co/ be willing to help /mlp/ ascend to the status of most active board before they get axed?&lt;img alt=&#39;IMG_3106.jpg&#39; src=&#39;http://i.4cdn.org/co/1743489284287508.jpg&#39;/&gt;&lt;img alt=&#39;1743489284287508.jpg&#39; src=&#39;http://i.4cdn.org/co/1743489284287508s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[229] homestuck general -/hst/</title>
+    <title>[231] homestuck general -/hst/</title>
     <updated>2025-04-01T04:37:59Z</updated>
     <id>tag:boards.4channel.org,2025-04-01:/co/thread/148147769/</id>
     <link href="https://boards.4channel.org/co/thread/148147769/" rel="alternate"></link>
@@ -718,7 +708,57 @@
     </author>
   </entry>
   <entry>
-    <title>[407] Annual Usagi Yojimbo Storytime 16</title>
+    <title>[ 51] /con/ thread</title>
+    <updated>2025-04-01T05:58:56Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148148991/</id>
+    <link href="https://boards.4channel.org/co/thread/148148991/" rel="alternate"></link>
+    <summary type="html">/n/ got DO4E&amp;#039;d. can we have a thread about non-car transportation in comics and cartoons? or characters on non-automotive transportation?&lt;img alt=&#39;1402803948299.jpg&#39; src=&#39;http://i.4cdn.org/co/1743487136138701.jpg&#39;/&gt;&lt;img alt=&#39;1743487136138701.jpg&#39; src=&#39;http://i.4cdn.org/co/1743487136138701s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[455] Death Battle</title>
+    <updated>2025-04-01T02:52:12Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148146234/</id>
+    <link href="https://boards.4channel.org/co/thread/148146234/" rel="alternate"></link>
+    <summary type="html">When will we get some GOOD capeshit matchups?&lt;img alt=&#39;IMG_5230.jpg&#39; src=&#39;http://i.4cdn.org/co/1743475932501530.jpg&#39;/&gt;&lt;img alt=&#39;1743475932501530.jpg&#39; src=&#39;http://i.4cdn.org/co/1743475932501530s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[289] Highest level of fursona insertion</title>
+    <updated>2025-03-30T16:04:11Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/co/thread/148122171/</id>
+    <link href="https://boards.4channel.org/co/thread/148122171/" rel="alternate"></link>
+    <summary type="html">If I had a nickel for every time a popstar icon self inserted themselves in a big animated production as their sexy furry OC, I&amp;#039;d have two nickels, wich isn&amp;#039;t a lot but it&amp;#039;s weird that it happened twice.&lt;img alt=&#39;popstarfurryocs.png&#39; src=&#39;http://i.4cdn.org/co/1743350651919654.png&#39;/&gt;&lt;img alt=&#39;1743350651919654.jpg&#39; src=&#39;http://i.4cdn.org/co/1743350651919654s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[233] Primos</title>
+    <updated>2025-03-28T14:44:13Z</updated>
+    <id>tag:boards.4channel.org,2025-03-28:/co/thread/148088175/</id>
+    <link href="https://boards.4channel.org/co/thread/148088175/" rel="alternate"></link>
+    <summary type="html">CONFIANZA&lt;br&gt;&lt;br&gt;&lt;a href=&#39;https://www.youtube.com/watch?v=6kH4xByJrhw&#39;&gt;https://www.youtube.com/watch?v=6kH4xByJrhw&lt;/a&gt;&lt;img alt=&#39;Nachito.jpg&#39; src=&#39;http://i.4cdn.org/co/1743173053544415.jpg&#39;/&gt;&lt;img alt=&#39;1743173053544415.jpg&#39; src=&#39;http://i.4cdn.org/co/1743173053544415s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ 44] Raisins thread</title>
+    <updated>2025-04-01T11:46:25Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148152446/</id>
+    <link href="https://boards.4channel.org/co/thread/148152446/" rel="alternate"></link>
+    <summary type="html">Raisins thread&lt;img alt=&#39;group01.jpg&#39; src=&#39;http://i.4cdn.org/co/1743507985592627.jpg&#39;/&gt;&lt;img alt=&#39;1743507985592627.jpg&#39; src=&#39;http://i.4cdn.org/co/1743507985592627s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[409] Annual Usagi Yojimbo Storytime 16</title>
     <updated>2025-03-31T14:50:17Z</updated>
     <id>tag:boards.4channel.org,2025-03-31:/co/thread/148136822/</id>
     <link href="https://boards.4channel.org/co/thread/148136822/" rel="alternate"></link>
@@ -728,11 +768,11 @@
     </author>
   </entry>
   <entry>
-    <title>[251] DALL-E/AI Thread</title>
-    <updated>2025-03-31T22:08:38Z</updated>
-    <id>tag:boards.4channel.org,2025-03-31:/co/thread/148142956/</id>
-    <link href="https://boards.4channel.org/co/thread/148142956/" rel="alternate"></link>
-    <summary type="html">Land Before Time edition &lt;br&gt;&lt;br&gt;previous &lt;br&gt;&lt;a href=&#34;/co/thread/148132640#p148132640&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;148132640&lt;/a&gt;&lt;img alt=&#39;blue eyes, detailed eyes s-528254284.png&#39; src=&#39;http://i.4cdn.org/co/1743458918828821.png&#39;/&gt;&lt;img alt=&#39;1743458918828821.jpg&#39; src=&#39;http://i.4cdn.org/co/1743458918828821s.jpg&#39;/&gt;</summary>
+    <title>[139] Steven Universe thread</title>
+    <updated>2025-04-01T03:07:20Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/co/thread/148146403/</id>
+    <link href="https://boards.4channel.org/co/thread/148146403/" rel="alternate"></link>
+    <summary type="html">I was rewatching this show &amp;amp; it used to be peak in its early seasons. Why the fuck did the writing go so downhill? The characters in the later seasons are so mischaracterized bros. The pink diamond is actually rose quartz contradictory bullshit reveal ruined the entire plot and bastardized characters like Pearl. And WTF happened to Peridot??? She was brilliant with her only flaw being social cues and they made her just generally dumb later on. Holy shit. It&amp;#039;s like rewatching the good seasons really highlights the flaws in the later ones. Lapis (my goat) also had SO much potential but she was sidelined before she could even get any fucking screentime. Her entire &amp;quot;arc&amp;quot; happened off screen and she was just a huge missed opportunity.&lt;img alt=&#39;IMG_4160.png&#39; src=&#39;http://i.4cdn.org/co/1743476840449413.png&#39;/&gt;&lt;img alt=&#39;1743476840449413.jpg&#39; src=&#39;http://i.4cdn.org/co/1743476840449413s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
@@ -818,6 +858,36 @@
     </author>
   </entry>
   <entry>
+    <title>[271] /GME/ - End of the Month Bad Comedy Joke Edition</title>
+    <updated>2025-03-31T21:29:29Z</updated>
+    <id>tag:boards.4channel.org,2025-03-31:/biz/thread/60092326/</id>
+    <link href="https://boards.4channel.org/biz/thread/60092326/" rel="alternate"></link>
+    <summary type="html">&lt;span class=&#34;quote&#34;&gt;&amp;gt;Basic Information&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://gme.crazyawesomecompany.com&#39;&gt;https://gme.crazyawesomecompany.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CH&#39;&gt;https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CH&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://gmetimeline.com&#39;&gt;https://gmetimeline.com&lt;/a&gt; (up to 2021)&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Daily reminder&lt;/span&gt;&lt;br&gt;[Kek Melvies]bzilp4&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Mandatory study time&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;The Everything Short&lt;/span&gt;&lt;br&gt;reddit.com/mgucv2&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;^watch-along&lt;/span&gt;&lt;br&gt;youtu.be/AaalT8rn9lc&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Naked Short Selling and Systemic Risk&lt;/span&gt;&lt;br&gt;youtu.be/FCiL4v7_z9E&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Failure to deliver&lt;/span&gt;&lt;br&gt;youtu.be/I0WXg5T3cBE&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;GameStop Investor Site&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;SEC 10-K Annual report FY23 &amp;amp; &amp;#039;24 Proxy Statement&lt;/span&gt;&lt;br&gt;news.gamestop.com/annual-meeting/&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What will happen if Citadel becomes insolvent?&lt;/span&gt;&lt;br&gt;DTCC with 60T USD, will pay as the final boss with FDIC as the insurance&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Real-Time Trades&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.nasdaq.com/market-activity/stocks/GME/latest-real-time-trades&#39;&gt;https://www.nasdaq.com/market-activity/stocks/GME/latest-real-time-trades&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://eresearch.fidelity.com/eresearch/gotoBL/fidelityTopOrders.jhtml&#39;&gt;https://eresearch.fidelity.com/eresearch/gotoBL/fidelityTopOrders.jhtml&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Current Trade Halts + Short Restrictions&lt;/span&gt;&lt;br&gt;nasdaqtrader.com/Trader.aspx?id=TradeHalts&lt;br&gt;nyse.com/markets/nyse-arca/notices&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;All other news/DDs/etc&lt;/span&gt;&lt;br&gt;en.wikipedia.org/wiki/Stag_hunt&lt;br&gt;&lt;a href=&#39;https://prospect.org/power/how-the-gamestop-hustle-worked&#39;&gt;https://prospect.org/power/how-the-gamestop-hustle-worked&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://computershared.net/?bot=drsbot&#39;&gt;https://computershared.net/?bot=drsbot&lt;/a&gt;&lt;br&gt;DRS Guide:&lt;br&gt;reddit.com/ptvaka&lt;br&gt;Avoid DSPP (more information under legacy links):&lt;br&gt;sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts&lt;br&gt;HF/broker class action lawsuit evidence:&lt;br&gt;storage.courtlistener.com/recap/gov.uscourts.flsd.590042/gov.uscourts.flsd.590042.416.0.pdf&lt;br&gt;SEC GME/meme stocks report:&lt;br&gt;sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf&lt;br&gt;&lt;br&gt;DD Compilation:&lt;br&gt;reddit.com/mnss65&lt;br&gt;Quarterly Movements, Equity Total Return Swaps, DOOMPs, ITM CALLs, Short Interest, and Futures Roll Periods:&lt;br&gt;reddit.com/pb22oj&lt;br&gt;Cellar Boxing:&lt;br&gt;reddit.com/pmj9yk&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Temporary alliance with reddit and Jaws to take down other sharks, we can go back to hating each other later&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;reddit DDs don&amp;#039;t take them for fact use your brain&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Check your broker and clearing house to ensure you&amp;#039;re not rugpulled&lt;/span&gt;&lt;br&gt;&lt;br&gt;Last time on /GME/: &lt;a href=&#34;/biz/thread/60086036#p60086036&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;60086036&lt;/a&gt;&lt;br&gt;&lt;br&gt;As always:&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;sneed hedgies&lt;/span&gt;&lt;img alt=&#39;bad-comedy-RRepo-Rick.gif&#39; src=&#39;http://i.4cdn.org/biz/1743456569413441.gif&#39;/&gt;&lt;img alt=&#39;1743456569413441.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743456569413441s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[ 34] /smg/ - Stock Market General</title>
+    <updated>2025-04-01T13:04:29Z</updated>
+    <id>tag:boards.4channel.org,2025-04-01:/biz/thread/60095479/</id>
+    <link href="https://boards.4channel.org/biz/thread/60095479/" rel="alternate"></link>
+    <summary type="html">Hole edition&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Educational sites:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.investopedia.com/&#39;&gt;https://www.investopedia.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.khanacademy.org/economics-finance-domain&#39;&gt;https://www.khanacademy.org/economics-finance-domain&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Charts/Screeners/Data:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.tradingview.com&#39;&gt;https://www.tradingview.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finviz.com/&#39;&gt;https://finviz.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.investing.com/indices/indices-futures&#39;&gt;https://www.investing.com/indices/indices-futures&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finance.yahoo.com/&#39;&gt;https://finance.yahoo.com/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Live Streams:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.newslive.com/american/cnbc.html&#39;&gt;https://www.newslive.com/american/cnbc.html&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.livestreamy.net/bloomberg/&#39;&gt;https://www.livestreamy.net/bloomberg/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://tvpass.org/channel/fox-business&#39;&gt;https://tvpass.org/channel/fox-business&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Options:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.optionsprofitcalculator.com&#39;&gt;https://www.optionsprofitcalculator.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://optionstrat.com/&#39;&gt;https://optionstrat.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.optionistics.com/quotes/option-prices&#39;&gt;https://www.optionistics.com/quotes/option-prices&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Calendars:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.marketwatch.com/economy-politics/calendar&#39;&gt;https://www.marketwatch.com/economy-politics/calendar&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.earningswhispers.com/calendar&#39;&gt;https://www.earningswhispers.com/calendar&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm&#39;&gt;https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&#39;&gt;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Boomer Investing:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.bogleheads.org/wiki/Getting_started&#39;&gt;https://www.bogleheads.org/wiki/Getting_started&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.sec.gov/search-filings&#39;&gt;https://www.sec.gov/search-filings&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Misc smg:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.portfoliovisualizer.com&#39;&gt;https://www.portfoliovisualizer.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finance.yahoo.com/trending-tickers&#39;&gt;https://finance.yahoo.com/trending-tickers&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.dividendchannel.com/drip-returns-calculator&#39;&gt;https://www.dividendchannel.com/drip-returns-calculator&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://brokerchooser.com/&#39;&gt;https://brokerchooser.com/&lt;/a&gt;&lt;br&gt;&lt;br&gt;Previously on /smg/ : &lt;a href=&#34;/biz/thread/60090635#p60090635&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;60090635&lt;/a&gt;&lt;img alt=&#39;GnYYZbebEAA58ms.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743512669660305.jpg&#39;/&gt;&lt;img alt=&#39;1743512669660305.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743512669660305s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
+    <title>[227] /XSG/ XRP Schizo General #2395</title>
+    <updated>2025-03-30T12:08:27Z</updated>
+    <id>tag:boards.4channel.org,2025-03-30:/biz/thread/60083512/</id>
+    <link href="https://boards.4channel.org/biz/thread/60083512/" rel="alternate"></link>
+    <summary type="html">Previous: &lt;a href=&#34;/biz/thread/60064865#p60064865&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;60064865&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Buy XRP on:&lt;/span&gt;&lt;br&gt;Coinbase, Binance, Bitrue, Uphold, Robinhood, Kraken, Kucoin, etc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Why hold XRP?&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://youtu.be/5urrOWO0KDI&#39;&gt;https://youtu.be/5urrOWO0KDI&lt;/a&gt; &lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Newfag Tutorial:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://youtu.be/23Yn5GdYpJc&#39;&gt;https://youtu.be/23Yn5GdYpJc&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRPL Guide:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://xrpl.guide&#39;&gt;https://xrpl.guide&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRPL Explorer:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://bithomp.com&#39;&gt;https://bithomp.com&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRPL Richlist:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rich-list.info&#39;&gt;https://rich-list.info&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Latest News:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.tradingview.com/symbols/XRPUSD/news/?exchange=CRYPTO&#39;&gt;https://www.tradingview.com/symbols/XRPUSD/news/?exchange=CRYPTO&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;X:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/JoelKatz&#39;&gt;https://x.com/JoelKatz&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/bgarlinghouse&#39;&gt;https://x.com/bgarlinghouse&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/Ripple&#39;&gt;https://x.com/Ripple&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/RippleXDev&#39;&gt;https://x.com/RippleXDev&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/WietseWind&#39;&gt;https://x.com/WietseWind&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/SMQKEDQG&#39;&gt;https://x.com/SMQKEDQG&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;The Myth of Market Cap:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;http://galgitron.net/Post/The-Myth-of-Market-Cap---Version-2&#39;&gt;http://galgitron.net/Post/The-Myth-of-Market-Cap---Version-2&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRP FUD BINGO:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://fudbingo.com&#39;&gt;https://fudbingo.com&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;ANTI-FUD:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/ZESsmqB8&#39;&gt;https://pastebin.com/ZESsmqB8&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Lore:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/Z39w20qf&#39;&gt;https://pastebin.com/Z39w20qf&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://X.com/bearableguy123&#39;&gt;https://X.com/bearableguy123&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/FoJAk3&#39;&gt;https://x.com/FoJAk3&lt;/a&gt; [Mr. Pool archives]&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Schizo Ramblings:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/YHwQrGDW&#39;&gt;https://pastebin.com/YHwQrGDW&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Past /XSG/ Threads:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/pZdQbREq&#39;&gt;https://pastebin.com/pZdQbREq&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What wallet do I use?&lt;/span&gt;&lt;br&gt;Hot storage - Xaman, Gem Wallet, Crossmark or Bifrost&lt;br&gt;Cold storage - Paper/Metal or Ledger/D’CENT&lt;br&gt;Paper Wallet - &lt;a href=&#39;https://pastebin.com/zFL8nJXd&#39;&gt;https://pastebin.com/zFL8nJXd&lt;/a&gt;&lt;img alt=&#39;sddefault (1).jpg&#39; src=&#39;http://i.4cdn.org/biz/1743336507989185.jpg&#39;/&gt;&lt;img alt=&#39;1743336507989185.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743336507989185s.jpg&#39;/&gt;</summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+  </entry>
+  <entry>
     <title>[ 99] Why the dump?</title>
     <updated>2025-03-30T16:00:27Z</updated>
     <id>tag:boards.4channel.org,2025-03-30:/biz/thread/60084141/</id>
@@ -858,16 +928,6 @@
     </author>
   </entry>
   <entry>
-    <title>[226] /XSG/ XRP Schizo General #2395</title>
-    <updated>2025-03-30T12:08:27Z</updated>
-    <id>tag:boards.4channel.org,2025-03-30:/biz/thread/60083512/</id>
-    <link href="https://boards.4channel.org/biz/thread/60083512/" rel="alternate"></link>
-    <summary type="html">Previous: &lt;a href=&#34;/biz/thread/60064865#p60064865&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;60064865&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Buy XRP on:&lt;/span&gt;&lt;br&gt;Coinbase, Binance, Bitrue, Uphold, Robinhood, Kraken, Kucoin, etc&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Why hold XRP?&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://youtu.be/5urrOWO0KDI&#39;&gt;https://youtu.be/5urrOWO0KDI&lt;/a&gt; &lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Newfag Tutorial:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://youtu.be/23Yn5GdYpJc&#39;&gt;https://youtu.be/23Yn5GdYpJc&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRPL Guide:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://xrpl.guide&#39;&gt;https://xrpl.guide&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRPL Explorer:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://bithomp.com&#39;&gt;https://bithomp.com&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRPL Richlist:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://rich-list.info&#39;&gt;https://rich-list.info&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Latest News:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.tradingview.com/symbols/XRPUSD/news/?exchange=CRYPTO&#39;&gt;https://www.tradingview.com/symbols/XRPUSD/news/?exchange=CRYPTO&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;X:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/JoelKatz&#39;&gt;https://x.com/JoelKatz&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/bgarlinghouse&#39;&gt;https://x.com/bgarlinghouse&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/Ripple&#39;&gt;https://x.com/Ripple&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/RippleXDev&#39;&gt;https://x.com/RippleXDev&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/WietseWind&#39;&gt;https://x.com/WietseWind&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/SMQKEDQG&#39;&gt;https://x.com/SMQKEDQG&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;The Myth of Market Cap:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;http://galgitron.net/Post/The-Myth-of-Market-Cap---Version-2&#39;&gt;http://galgitron.net/Post/The-Myth-of-Market-Cap---Version-2&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;XRP FUD BINGO:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://fudbingo.com&#39;&gt;https://fudbingo.com&lt;/a&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;ANTI-FUD:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/ZESsmqB8&#39;&gt;https://pastebin.com/ZESsmqB8&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Lore:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/Z39w20qf&#39;&gt;https://pastebin.com/Z39w20qf&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://X.com/bearableguy123&#39;&gt;https://X.com/bearableguy123&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://x.com/FoJAk3&#39;&gt;https://x.com/FoJAk3&lt;/a&gt; [Mr. Pool archives]&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Schizo Ramblings:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/YHwQrGDW&#39;&gt;https://pastebin.com/YHwQrGDW&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Past /XSG/ Threads:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://pastebin.com/pZdQbREq&#39;&gt;https://pastebin.com/pZdQbREq&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;What wallet do I use?&lt;/span&gt;&lt;br&gt;Hot storage - Xaman, Gem Wallet, Crossmark or Bifrost&lt;br&gt;Cold storage - Paper/Metal or Ledger/D’CENT&lt;br&gt;Paper Wallet - &lt;a href=&#39;https://pastebin.com/zFL8nJXd&#39;&gt;https://pastebin.com/zFL8nJXd&lt;/a&gt;&lt;img alt=&#39;sddefault (1).jpg&#39; src=&#39;http://i.4cdn.org/biz/1743336507989185.jpg&#39;/&gt;&lt;img alt=&#39;1743336507989185.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743336507989185s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
     <title>[244] /pmg/ - Precious Metals General</title>
     <updated>2025-04-01T00:41:37Z</updated>
     <id>tag:boards.4channel.org,2025-04-01:/biz/thread/60093292/</id>
@@ -883,16 +943,6 @@
     <id>tag:boards.4channel.org,2025-03-30:/biz/thread/60084100/</id>
     <link href="https://boards.4channel.org/biz/thread/60084100/" rel="alternate"></link>
     <summary type="html">I’m not expecting an altcoin season anymore, I’ve already lost hope. I just don’t see any signs of it coming. Change my mind anon.&lt;img alt=&#39;IMG_20250330_174722_604.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743349709756679.jpg&#39;/&gt;&lt;img alt=&#39;1743349709756679.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743349709756679s.jpg&#39;/&gt;</summary>
-    <author>
-      <name>Anonymous</name>
-    </author>
-  </entry>
-  <entry>
-    <title>[ 33] /smg/ - Stock Market General</title>
-    <updated>2025-04-01T13:04:29Z</updated>
-    <id>tag:boards.4channel.org,2025-04-01:/biz/thread/60095479/</id>
-    <link href="https://boards.4channel.org/biz/thread/60095479/" rel="alternate"></link>
-    <summary type="html">Hole edition&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Educational sites:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.investopedia.com/&#39;&gt;https://www.investopedia.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.khanacademy.org/economics-finance-domain&#39;&gt;https://www.khanacademy.org/economics-finance-domain&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Charts/Screeners/Data:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.tradingview.com&#39;&gt;https://www.tradingview.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finviz.com/&#39;&gt;https://finviz.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.investing.com/indices/indices-futures&#39;&gt;https://www.investing.com/indices/indices-futures&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finance.yahoo.com/&#39;&gt;https://finance.yahoo.com/&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Live Streams:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.newslive.com/american/cnbc.html&#39;&gt;https://www.newslive.com/american/cnbc.html&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.livestreamy.net/bloomberg/&#39;&gt;https://www.livestreamy.net/bloomberg/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://tvpass.org/channel/fox-business&#39;&gt;https://tvpass.org/channel/fox-business&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Options:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.optionsprofitcalculator.com&#39;&gt;https://www.optionsprofitcalculator.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://optionstrat.com/&#39;&gt;https://optionstrat.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.optionistics.com/quotes/option-prices&#39;&gt;https://www.optionistics.com/quotes/option-prices&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Calendars:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.marketwatch.com/economy-politics/calendar&#39;&gt;https://www.marketwatch.com/economy-politics/calendar&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.earningswhispers.com/calendar&#39;&gt;https://www.earningswhispers.com/calendar&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm&#39;&gt;https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&#39;&gt;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Boomer Investing:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.bogleheads.org/wiki/Getting_started&#39;&gt;https://www.bogleheads.org/wiki/Getting_started&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.sec.gov/search-filings&#39;&gt;https://www.sec.gov/search-filings&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;quote&#34;&gt;&amp;gt;Misc smg:&lt;/span&gt;&lt;br&gt;&lt;a href=&#39;https://www.portfoliovisualizer.com&#39;&gt;https://www.portfoliovisualizer.com&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://finance.yahoo.com/trending-tickers&#39;&gt;https://finance.yahoo.com/trending-tickers&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://www.dividendchannel.com/drip-returns-calculator&#39;&gt;https://www.dividendchannel.com/drip-returns-calculator&lt;/a&gt;&lt;br&gt;&lt;a href=&#39;https://brokerchooser.com/&#39;&gt;https://brokerchooser.com/&lt;/a&gt;&lt;br&gt;&lt;br&gt;Previously on /smg/ : &lt;a href=&#34;/biz/thread/60090635#p60090635&#34; class=&#34;quotelink&#34;&gt;&amp;gt;&amp;gt;60090635&lt;/a&gt;&lt;img alt=&#39;GnYYZbebEAA58ms.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743512669660305.jpg&#39;/&gt;&lt;img alt=&#39;1743512669660305.jpg&#39; src=&#39;http://i.4cdn.org/biz/1743512669660305s.jpg&#39;/&gt;</summary>
     <author>
       <name>Anonymous</name>
     </author>
