@@ -1,15 +1,17 @@
 package main
 
 import (
+	"encoding/xml"
 	"flag"
 	"fmt"
 	"log"
 	"os"
+	"sort"
 	"strings"
 	"time"
 
-	"github.com/gorilla/feeds"
 	"github.com/k3a/html2text"
+	"github.com/mmcdole/gofeed"
 	"github.com/moshee/go-4chan-api/api"
 	"mvdan.cc/xurls/v2"
 )
@@ -17,15 +19,17 @@ import (
 var URLRegex = xurls.Strict()
 
 var options struct {
-	boardNames string
-	pages      uint
-	replies    uint
+	boardNames   string
+	pages        uint
+	replies      uint
+	filterString string
 }
 
 func init() {
-	flag.UintVar(&options.replies, "n", 10, "cutoff of number of replies on thread")
-	flag.UintVar(&options.pages, "p", 1, "number of pages/request to get/make")
-	flag.StringVar(&options.boardNames, "b", "news", "comma-separated list of board names")
+	flag.UintVar(&options.replies, "n", 10, "Minimum number of replies required to include a thread")
+	flag.UintVar(&options.pages, "p", 1, "Number of pages to fetch per board")
+	flag.StringVar(&options.boardNames, "b", "news", "Comma-separated list of board names")
+	flag.StringVar(&options.filterString, "f", "", "String to filter out from thread titles (e.g. 'general')")
 }
 
 func main() {
@@ -43,17 +47,23 @@ func main() {
 
 func run() (string, error) {
 	flag.Parse()
+	if options.pages == 0 {
+		return "", fmt.Errorf("page count (-p) must be greater than 0")
+	}
+
 	now := time.Now()
-	feed := &feeds.Feed{
+	feed := &gofeed.Feed{
 		Title:       fmt.Sprintf("4chan threads from multiple boards"),
-		Link:        &feeds.Link{Href: "https://boards.4channel.org/"},
-		Description: fmt.Sprintf("threads from multiple boards with more than %d comments", options.replies),
-		Author:      &feeds.Author{Name: "Anon"},
-		Created:     now,
+		Link:        "https://boards.4channel.org/", // Link as a string
+		Description: fmt.Sprintf("Threads from multiple boards with more than %d replies", options.replies),
+		Author: &gofeed.Person{
+			Name: "Anon",
+		},
+		Updated: now.Format(time.RFC3339), // Convert time to string in RFC3339 format
 	}
 
 	boards := strings.Split(options.boardNames, ",")
-	var allItems []*feeds.Item
+	var allItems []*gofeed.Item
 	for _, board := range boards {
 		threads, err := getThreads(board, options.pages)
 		if err != nil {
@@ -63,12 +73,78 @@ func run() (string, error) {
 		allItems = append(allItems, items...)
 	}
 
+	// Sorting items by Published date
+	sort.Slice(allItems, func(i, j int) bool {
+		time1, _ := time.Parse(time.RFC3339, allItems[i].Published)
+		time2, _ := time.Parse(time.RFC3339, allItems[j].Published)
+		return time1.After(time2)
+	})
+
 	feed.Items = allItems
-	atom, err := feed.ToAtom()
+
+	// Manually serialize feed to XML (RSS)
+	rssXML, err := toRSSXML(feed)
 	if err != nil {
 		return "", err
 	}
-	return atom, nil
+
+	return rssXML, nil
+}
+
+func toRSSXML(feed *gofeed.Feed) (string, error) {
+	type RSS struct {
+		XMLName xml.Name    `xml:"rss"`
+		Version string      `xml:"version,attr"`
+		Channel *RSSChannel `xml:"channel"`
+	}
+
+	// Create a new channel with the necessary fields
+	rssChannel := &RSSChannel{
+		Title:       feed.Title,
+		Link:        feed.Link,
+		Description: feed.Description,
+		Author:      feed.Author.Name,
+		Updated:     feed.Updated,
+	}
+
+	// Add all items to the channel
+	for _, item := range feed.Items {
+		rssChannel.Items = append(rssChannel.Items, RSSItem{
+			Title:       item.Title,
+			Link:        item.Link,
+			Description: item.Description,
+			Author:      item.Author.Name,
+			Published:   item.Published,
+		})
+	}
+
+	rss := &RSS{
+		Version: "2.0",
+		Channel: rssChannel,
+	}
+
+	output, err := xml.MarshalIndent(rss, "", "  ")
+	if err != nil {
+		return "", err
+	}
+	return string(output), nil
+}
+
+type RSSChannel struct {
+	Title       string    `xml:"title"`
+	Link        string    `xml:"link"`
+	Description string    `xml:"description"`
+	Author      string    `xml:"managingEditor"`
+	Updated     string    `xml:"lastBuildDate"`
+	Items       []RSSItem `xml:"item"`
+}
+
+type RSSItem struct {
+	Title       string `xml:"title"`
+	Link        string `xml:"link"`
+	Description string `xml:"description"`
+	Author      string `xml:"author"`
+	Published   string `xml:"pubDate"`
 }
 
 func getThreads(board string, pages uint) (threads []*api.Thread, err error) {
@@ -82,10 +158,14 @@ func getThreads(board string, pages uint) (threads []*api.Thread, err error) {
 	return
 }
 
-func processThreads(threads []*api.Thread, board string) []*feeds.Item {
-	var items []*feeds.Item
+func processThreads(threads []*api.Thread, board string) []*gofeed.Item {
+	var items []*gofeed.Item
 	for _, thread := range threads {
 		if thread.Replies() < int(options.replies) {
+			continue
+		}
+		title := getTitle(thread.OP)
+		if options.filterString != "" && strings.Contains(strings.ToLower(title), strings.ToLower(options.filterString)) {
 			continue
 		}
 		item := processPost(thread.OP, board)
@@ -95,27 +175,25 @@ func processThreads(threads []*api.Thread, board string) []*feeds.Item {
 	return items
 }
 
-func processPost(post *api.Post, board string) *feeds.Item {
-	item := &feeds.Item{}
+func processPost(post *api.Post, board string) *gofeed.Item {
+	item := &gofeed.Item{}
 	item.Title = getTitle(post)
-	item.Link = &feeds.Link{
-		Href: fmt.Sprintf("https://boards.4channel.org/%s/thread/%d/", board, post.Id),
-	}
+	item.Link = fmt.Sprintf("https://boards.4channel.org/%s/thread/%d/", board, post.Id)
+
 	item.Description = anchorize(strings.ReplaceAll(post.Comment, "<wbr>", ""))
 	if post.File != nil {
+		item.Description += fmt.Sprintf("<p>Original filename: %s%s</p>", post.File.Name, post.File.Ext)
+
 		item.Description += fmt.Sprintf(
-			"<img alt='%s' src='%s'/>",
-			post.File.Name+post.File.Ext,
+			"<a href='%s'><img alt='%s' src='%s'/></a>",
 			post.ImageURL(),
-		)
-		item.Description += fmt.Sprintf(
-			"<img alt='%d.jpg' src='%s'/>",
-			post.File.Id,
+			post.File.Name+post.File.Ext,
 			post.ThumbURL(),
 		)
 	}
-	item.Author = &feeds.Author{Name: post.Name}
-	item.Created = post.Time
+
+	item.Author = &gofeed.Person{Name: post.Name}
+	item.Published = post.Time.Format(time.RFC3339) // `Published` should be a string in RFC3339 format
 	return item
 }
 
@@ -147,7 +225,6 @@ func substring(s string, end int) string {
 func min(a, b int) int {
 	if a < b {
 		return a
-	} else {
-		return b
 	}
+	return b
 }

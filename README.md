@@ -31,7 +31,7 @@ go build -o 4chan-rss
 The script can be run from a terminal:
 
 ```bash
-4chan-rss -b g,vg,ck -n 30 -p 1
+./4chan-rss -b g,vg,ck -n 30 -p 1 -f general
 ```
 
 Or you can run it automatically via a GitHub Action and change the boards fetched within the `create-feed` step.
@@ -41,7 +41,7 @@ Or you can run it automatically via a GitHub Action and change the boards fetche
 - `-b <boards>` – Boards to fetch, comma-separated (e.g. `g,v,ck`)
 - `-n <number>` – Minimum number of replies to include thread (default: `0`)
 - `-p <pages>` – Number of pages to parse (default: `1`)
-- `-f=<general>` - Filter out keywords from being fetched
+- `-f <"general">` - Filter out keywords from being fetched
 
 ## GitHub Action
 
