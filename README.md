@@ -28,7 +28,7 @@ go build -o 4chan-rss
 
 ## Usage
 
-The script can be run from a terminal:
+The script can be run from a terminal after being built as a binary using `go build`.
 
 ```bash
 ./4chan-rss -b g,vg,ck -n 30 -p 1 -f general
@@ -49,11 +49,9 @@ You can automate the feed generation using GitHub Actions.
 Update the `boards` and `arguments` in the `create-feed` job in your workflow.
 
 > [!NOTE]
-> This will create a rss.xml file in your repo
-
-Make sure to build the binary before this step using `go build`.
+> This will create a `rss.xml` file in your repo
 
 ## Planned Features
 
-- Save output to file
-- Filter by thread keyword
+- Save output to specifed location/file
+- Fetch threads by a keyword
